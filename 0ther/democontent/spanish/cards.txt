@@ -1,0 +1,4936 @@
+su
+todo
+más
+este
+otro
+ese
+mucho
+mi
+alguno
+mismo
+primero
+grande
+poco
+tanto
+nuestro
+cada
+menos
+nuevo
+aquel
+bueno
+tal
+mejor
+cierto
+mayor
+último
+propio
+ninguno
+cualquier
+solo
+largo
+único
+pequeño
+alto
+importante
+medio
+humano
+varios
+posible
+general
+igual
+segundo
+blanco
+distinto
+claro
+cuyo
+bastante
+malo
+social
+viejo
+político
+español
+siguiente
+demás
+difícil
+negro
+necesario
+menor
+demasiado
+antiguo
+tu
+especial
+diferente
+anterior
+pobre
+tercero
+capaz
+bajo
+libre
+natural
+verdadero
+económico
+común
+abierto
+próximo
+joven
+pasado
+vivo
+completo
+contrario
+real
+público
+enorme
+ambos
+profundo
+principal
+nacional
+lleno
+supuesto
+fácil
+rojo
+superior
+corto
+conocido
+serio
+suficiente
+grave
+extraño
+absoluto
+personal
+imposible
+inglés
+duro
+rico
+total
+puro
+profesional
+físico
+francés
+rápido
+simple
+normal
+moderno
+actual
+pleno
+cerrado
+muerto
+dispuesto
+enfermo
+privado
+popular
+famoso
+cuánto
+inmediato
+junto
+directo
+preciso
+diverso
+familiar
+entero
+interesante
+amplio
+final
+civil
+interno
+definitivo
+perfecto
+parecido
+raro
+particular
+militar
+unido
+extraordinario
+verde
+exacto
+religioso
+oscuro
+cuarto
+azul
+frío
+concreto
+derecho
+sencillo
+determinado
+perdido
+cercano
+adecuado
+italiano
+responsable
+feliz
+alemán
+dado
+diario
+histórico
+debido
+mínimo
+doble
+fuerte
+constante
+semejante
+extranjero
+evidente
+fijo
+central
+preparado
+inmenso
+moral
+curioso
+fundamental
+presente
+máximo
+europeo
+oficial
+numeroso
+intelectual
+escaso
+cristiano
+seguro
+intenso
+peligroso
+lento
+falso
+tranquilo
+lejano
+breve
+exterior
+médico
+ajeno
+seco
+quinto
+infantil
+internacional
+original
+útil
+tremendo
+temprano
+separado
+lógico
+auténtico
+hermoso
+terrible
+sentado
+correcto
+permanente
+norteamericano
+comercial
+obligado
+americano
+interior
+práctico
+excelente
+cultural
+complejo
+débil
+independiente
+convencido
+pendiente
+futuro
+desconocido
+muchísimo
+tradicional
+triste
+similar
+activo
+clásico
+reciente
+eléctrico
+bello
+brillante
+femenino
+fino
+inferior
+positivo
+pesado
+complicado
+loco
+delicado
+violento
+sano
+limpio
+posterior
+relacionado
+habitual
+nervioso
+material
+consciente
+vital
+cotidiano
+previo
+chino
+inteligente
+listo
+correspondiente
+seguido
+griego
+maestro
+barato
+notable
+encargado
+técnico
+ciego
+individual
+universal
+literario
+continuo
+elevado
+establecido
+local
+vacío
+aislado
+múltiple
+poderoso
+digno
+inútil
+sólido
+firme
+extremo
+conforme
+esencial
+amarillo
+acostumbrado
+artístico
+ocupado
+interesado
+excesivo
+argentino
+cómodo
+negativo
+científico
+armado
+contento
+cubierto
+típico
+crítico
+castellano
+vecino
+increíble
+mental
+preocupado
+íntimo
+estrecho
+frecuente
+inevitable
+ligero
+izquierdo
+bonito
+corriente
+primario
+ideal
+ancho
+agradable
+colectivo
+secreto
+incapaz
+satisfecho
+reducido
+maravilloso
+relativo
+musical
+redondo
+sujeto
+romano
+sagrado
+suave
+opuesto
+sabio
+caliente
+sexual
+respectivo
+situado
+rodeado
+magnífico
+campesino
+efectivo
+aplicado
+casado
+severo
+justo
+precioso
+probable
+entendido
+avanzado
+latino
+espiritual
+limitado
+vestido
+eterno
+caro
+inicial
+dulce
+divino
+alejado
+elemental
+anciano
+fiel
+roto
+elegante
+oportuno
+significativo
+suelto
+revolucionario
+indispensable
+mundial
+oriental
+regular
+doméstico
+peor
+conveniente
+mecánico
+eficaz
+nocturno
+radical
+decidido
+sucio
+salvaje
+industrial
+desnudo
+querido
+absurdo
+dramático
+liberal
+legal
+artificial
+modesto
+objetivo
+universitario
+sensible
+formal
+primitivo
+oculto
+definido
+externo
+organizado
+mero
+compuesto
+solitario
+estricto
+doloroso
+idéntico
+previsto
+característico
+fresco
+atractivo
+católico
+masculino
+cansado
+desesperado
+caído
+japonés
+espontáneo
+urbano
+valioso
+agudo
+tonto
+cuadrado
+sorprendente
+favorable
+culpable
+secundario
+infinito
+válido
+gordo
+desagradable
+agresivo
+parado
+exclusivo
+prohibido
+grueso
+urgente
+democrático
+considerable
+gris
+básico
+abandonado
+indígena
+moreno
+alegre
+extenso
+ruso
+remoto
+comunista
+abundante
+judío
+impresionante
+occidental
+mutuo
+romántico
+pintado
+distante
+equivocado
+fantástico
+humilde
+desarrollado
+específico
+encerrado
+injusto
+sucesivo
+feo
+orgulloso
+excepcional
+generoso
+académico
+razonable
+amable
+rígido
+ordenado
+apropiado
+resuelto
+árabe
+cruel
+visible
+poquito
+variado
+repetido
+envuelto
+paralelo
+ordinario
+creciente
+anónimo
+trágico
+riguroso
+atento
+incómodo
+inocente
+fatal
+noble
+escondido
+hondo
+divertido
+juvenil
+ausente
+mediado
+estético
+bravo
+sutil
+maduro
+mezclado
+lindo
+obvio
+simpático
+exquisito
+harto
+exagerado
+conservador
+imprescindible
+rural
+supremo
+confuso
+decisivo
+bruto
+sentimental
+herido
+luminoso
+transparente
+aparente
+húmedo
+leve
+realista
+prestado
+adulto
+municipal
+superficial
+dorado
+favorito
+escolar
+cálido
+inconsciente
+mágico
+amargo
+filosófico
+marino
+culto
+pensado
+horrible
+peculiar
+ejemplar
+bárbaro
+autónomo
+sonoro
+jurídico
+ilustre
+blando
+estable
+dormido
+tímido
+vasto
+frustrado
+comprometido
+consiguiente
+aburrido
+recto
+socialista
+espléndido
+existente
+inclinado
+metálico
+espectacular
+misterioso
+obrero
+administrativo
+singular
+crudo
+agotado
+deportivo
+químico
+teórico
+ciudadano
+prudente
+telefónico
+racional
+indiferente
+inesperado
+sincero
+ideológico
+ligado
+prolongado
+sordo
+admirable
+voluntario
+judicial
+reservado
+legítimo
+convencional
+gigantesco
+tierno
+aéreo
+automático
+inquieto
+helado
+plástico
+vulgar
+hábil
+destacado
+encendido
+plano
+obligatorio
+contemporáneo
+discreto
+amoroso
+optimista
+delgado
+tenso
+indirecto
+ejecutivo
+referente
+dotado
+callado
+flexible
+mediano
+pacífico
+contradictorio
+mortal
+solemne
+mudo
+sorprendido
+psicológico
+preferible
+célebre
+valiente
+delicioso
+potente
+vuestro
+notorio
+sexto
+electrónico
+quieto
+pálido
+animado
+chileno
+materno
+soltero
+vinculado
+colgado
+geográfico
+frágil
+ridículo
+irregular
+genial
+gracioso
+intermedio
+temporal
+distinguido
+dudoso
+lamentable
+interminable
+innecesario
+verbal
+intacto
+procedente
+disponible
+encantado
+británico
+laboral
+rubio
+enamorado
+insuficiente
+sostenido
+espantoso
+financiero
+colonial
+teatral
+vertical
+gratuito
+vegetal
+usado
+ambicioso
+policial
+poético
+satisfactorio
+vago
+estúpido
+honesto
+brusco
+iluminado
+simbólico
+heroico
+décimo
+quemado
+vano
+casero
+molesto
+auxiliar
+silencioso
+nativo
+aceptable
+rotundo
+repentino
+ansioso
+despacio
+innumerable
+insoportable
+electoral
+formidable
+miserable
+grato
+enérgico
+ignorante
+ilustrado
+altísimo
+estupendo
+restante
+regional
+cómico
+tardío
+puntual
+imaginario
+brutal
+disperso
+ingenuo
+anual
+costoso
+repleto
+asombroso
+exigente
+apto
+incierto
+espeso
+apasionado
+abstracto
+creativo
+autoritario
+subterráneo
+feroz
+sistemático
+sumo
+eficiente
+invisible
+rebelde
+privilegiado
+dominante
+tibio
+sospechoso
+fabuloso
+denso
+agrícola
+mensual
+torpe
+liso
+asustado
+propicio
+dicho
+ambiguo
+encantador
+respetuoso
+africano
+flaco
+biológico
+emocional
+diplomático
+progresivo
+glorioso
+turco
+poblado
+impreso
+inverso
+funcional
+orgánico
+comparable
+marginal
+pardo
+tendido
+horizontal
+penoso
+preferido
+insignificante
+preso
+global
+oral
+parcial
+masivo
+desierto
+educativo
+vigente
+saludable
+apretado
+desaparecido
+pésimo
+solar
+egoísta
+exótico
+fascinante
+áspero
+lujoso
+hostil
+tropical
+franco
+inédito
+uniforme
+integrante
+lingüístico
+mexicano
+autorizado
+leal
+cubano
+sangriento
+matemático
+portugués
+estático
+representativo
+furioso
+estudioso
+vasco
+complementario
+insólito
+temeroso
+consagrado
+despierto
+embarazada
+latinoamericano
+tecnológico
+desigual
+civilizado
+indudable
+lateral
+arbitrario
+respetable
+diminuto
+celeste
+convincente
+periodístico
+cariñoso
+acertado
+mediocre
+agitado
+precario
+sanitario
+comprensible
+cuidadoso
+irracional
+hundido
+dinámico
+sereno
+retirado
+refinado
+maldito
+inmóvil
+grosero
+catalán
+relevante
+audaz
+disfrazado
+ágil
+atrasado
+agradecido
+adicional
+condicionado
+óptimo
+súbito
+incomprensible
+guapo
+inmerso
+proveniente
+primordial
+genético
+infeliz
+compacto
+criminal
+coherente
+estratégico
+ético
+enterado
+incipiente
+alternativo
+expresivo
+estatal
+perpetuo
+estéril
+latente
+holandés
+enterrado
+celoso
+constitucional
+circular
+reflejado
+detallado
+atrapado
+liviano
+entusiasmado
+susceptible
+inolvidable
+ruidoso
+gigante
+semanal
+clandestino
+defensivo
+manual
+mixto
+penal
+pintoresco
+publicitario
+virgen
+matrimonial
+equivalente
+deseable
+pasivo
+llamativo
+justificado
+fotográfico
+desordenado
+gráfico
+revuelto
+expreso
+erótico
+amenazado
+inminente
+imperial
+inexplicable
+peruano
+experimental
+opaco
+efímero
+invertido
+transitorio
+mojado
+descalzo
+orientado
+presidencial
+brasileño
+minucioso
+rústico
+apagado
+comunitario
+explícito
+silvestre
+fiscal
+espacial
+medieval
+honrado
+veloz
+monótono
+imprevisto
+soviético
+potencial
+ambulante
+perverso
+ardiente
+tenue
+indiscutible
+sombrío
+adolescente
+rosado
+amistoso
+perteneciente
+necesitado
+indefinido
+solidario
+paralizado
+inquietante
+visual
+republicano
+destruido
+trabajador
+grandioso
+dichoso
+agrario
+suizo
+presunto
+vertiginoso
+decente
+congelado
+triple
+inseguro
+irónico
+asombrado
+sofisticado
+ingenioso
+vulnerable
+geométrico
+bendito
+trascendente
+alarmante
+pequeñito
+pasajero
+turístico
+impecable
+soberbio
+sonriente
+nulo
+implacable
+productivo
+andaluz
+institucional
+vigoroso
+atroz
+sabroso
+larguísimo
+simultáneo
+trascendental
+colorado
+prestigioso
+crónico
+bíblico
+paterno
+acelerado
+árido
+caprichoso
+minúsculo
+provincial
+ilegal
+terrestre
+cordial
+angustiado
+piadoso
+corporal
+ilimitado
+esporádico
+melancólico
+móvil
+robusto
+llano
+colombiano
+angustioso
+estadístico
+maligno
+comprensivo
+hueco
+elocuente
+afín
+usual
+bancario
+afortunado
+informativo
+importado
+íntegro
+extra
+recíproco
+fértil
+acomodado
+soberano
+guerrero
+involuntario
+inexistente
+subjetivo
+neutro
+desconcertado
+impreciso
+previsible
+frontal
+monstruoso
+persistente
+educado
+irreversible
+prematuro
+rudo
+cerebral
+pedagógico
+grotesco
+sumido
+siniestro
+místico
+exento
+clínico
+callejero
+mismísimo
+contundente
+séptimo
+carente
+nítido
+imponente
+secular
+inseparable
+inestable
+frívolo
+prodigioso
+laborioso
+eclesiástico
+confundido
+marrón
+sintético
+bélico
+combinado
+parlamentario
+trasero
+irreal
+entusiasta
+patriótico
+aplastado
+rítmico
+hispano
+constructivo
+ocasional
+monumental
+accesible
+la vez
+el año
+el tiempo
+el día
+la cosa
+el hombre
+la parte
+la vida
+el momento
+la forma
+la casa
+el mundo
+la mujer
+el caso
+el país
+el lugar
+la persona
+la hora
+el trabajo
+el punto
+la mano
+la manera
+el fin
+el tipo
+la gente
+el ejemplo
+el lado
+el hijo
+el problema
+la cuenta
+el medio
+la palabra
+el niño
+el embargo
+el padre
+el cambio
+la historia
+la idea
+el agua (f)
+la noche
+la ciudad
+el modo
+el nombre
+la familia
+la realidad
+la obra
+la verdad
+el mes
+la razón
+el grupo
+la relación
+el cuerpo
+el hecho
+el principio
+el señor
+el pueblo
+la tarde
+el ojo
+la calle
+el libro
+la fuerza
+la luz
+el santo
+el frente
+el amigo
+el sentido
+el paso
+la situación
+la gracia
+el siglo
+el dios
+la tierra
+el papel
+la madre
+el tema
+la clase
+el dinero
+el campo
+la cabeza
+el orden
+el don
+la semana
+el final
+el interés
+la vista
+el acuerdo
+el número
+el fondo
+el camino
+la voz
+el estudio
+el valor
+la medida
+el centro
+la necesidad
+la condición
+la falta
+la edad
+el estado
+el ser
+la puerta
+la cara
+la época
+el color
+la experiencia
+el movimiento
+el pesar
+la posibilidad
+el juego
+el aire
+la guerra
+el resultado
+la ley
+el aspecto
+el pie
+la especie
+el servicio
+la actividad
+la cuestión
+la duda
+la diferencia
+la mañana
+la cantidad
+la acción
+la sociedad
+el peso
+el efecto
+el objeto
+el amor
+la muerte
+el partido
+el poder
+la importancia
+el sistema
+el viaje
+el suelo
+el respecto
+el conocimiento
+la libertad
+la atención
+el esfuerzo
+el resto
+la zona
+el miedo
+el proceso
+el minuto
+la mesa
+la ocasión
+el programa
+el favor
+la respuesta
+la línea
+el espacio
+el nivel
+el gobierno
+el cabo
+la pregunta
+la imagen
+la carrera
+la figura
+el animal
+la base
+la posición
+el motivo
+la prueba
+la política
+los datos 
+la empresa
+el asunto
+la presencia
+la cultura
+la serie
+el carácter
+la mayoría
+la escuela
+el autor
+el hermano
+la función
+la causa
+la decisión
+la música
+la expresión
+el río
+la seguridad
+el término
+el metro
+el médico
+el arte
+la consecuencia
+el acto
+la pena
+el segundo
+la altura
+el deseo
+el joven
+el sueño
+la tarea
+la carta
+la propiedad
+el producto
+el gusto
+la ayuda
+la lengua
+el plan
+la vuelta
+el proyecto
+la memoria
+el origen
+el elemento
+el mercado
+el curso
+la sangre
+el interior
+el uso
+el brazo
+el profesor
+el futuro
+la oportunidad
+la mitad
+el recuerdo
+la opinión
+la boca
+la dirección
+la pieza
+la actitud
+el mar
+la entrada
+el contacto
+el corazón
+el capital
+el título
+el cuarto
+el material
+el golpe
+la comunicación
+la enfermedad
+el bien
+la materia
+el sitio
+la naturaleza
+la capacidad
+la distancia
+la información
+el ambiente
+el desarrollo
+el sol
+el compañero
+la salida
+la conciencia
+la costumbre
+la paz
+la noticia
+la circunstancia
+el dolor
+el estilo
+el precio
+la planta
+el personaje
+el éxito
+la hija
+el edificio
+la autoridad
+la piedra
+el conjunto
+la suerte
+el espíritu
+el miembro
+el recurso
+la pared
+el equipo
+el error
+la dificultad
+la voluntad
+la reunión
+el modelo
+la fecha
+el propósito
+el cuidado
+el puesto
+el grado
+la lucha
+el jefe
+el periódico
+el par
+el público
+la calidad
+la ciencia
+el tamaño
+el doctor
+el cuadro
+el caballo
+la responsabilidad
+el detalle
+la marcha
+la carne
+el pensamiento
+el cargo 
+la santa
+la construcción
+el juicio
+el terreno
+el piso
+la compañía
+el texto
+la fuente
+el presente
+la revista
+la esperanza
+la máquina
+la frase
+la sala
+el instrumento
+la defensa
+el director
+la explicación
+el artículo
+el radio
+la película
+la elección
+la visita
+el apoyo
+el presidente
+el arma
+el árbol
+el encuentro
+la corriente
+la lectura
+la existencia
+el lenguaje
+el destino
+la educación
+la operación
+la nota
+el teatro
+el negocio
+la letra
+el sentimiento
+de algo 
+la solución
+la comida
+la impresión
+el plano
+la intención
+el ritmo
+el banco
+la piel
+el control
+la investigación
+la conversación
+el verano
+el respeto
+el norte
+la tradición
+la población
+la pareja
+el pasado
+el diario
+la generación
+la visión
+la vista
+el peligro
+el oro
+el vino
+la etapa
+el silencio
+el artista
+la labor
+el cielo
+la práctica
+el límite
+la masa
+la formación
+el perro
+la izquierda
+la energía
+la confianza
+la flor
+la esposa
+la revolución
+el maestro
+el fenómeno
+la presión
+el alumno
+la teoría
+el tono
+la salud
+la señora
+la vía
+el alma
+la madera
+la fiesta
+el calor
+el hogar
+la mente
+la preocupación
+el concepto
+el teléfono
+la hoja
+el escritor
+el intento
+la regla
+el riesgo
+el policía
+el estudiante
+la plaza
+la llamada
+la sensación
+el enemigo
+la unidad
+el idioma
+la raíz
+el compromiso
+el comentario
+el marido
+el derecho 
+el extremo
+el individuo
+el contenido
+la obligación
+el corte
+el total
+el daño
+el mensaje
+la lista
+la región
+la niña
+la culpa
+la discusión
+el pelo
+la fe
+la referencia
+el sur
+el gesto
+la perspectiva
+el colegio
+la venta
+el documento
+la televisión
+el chico
+la novela
+el alcance
+la crisis
+la literatura
+la batalla
+el dueño
+el vecino
+el sector
+la pintura
+el accidente
+la influencia
+el empleado
+la moneda
+la facilidad
+el matrimonio
+la iglesia
+la oficina
+la institución
+el frío
+el domingo
+la reacción
+el acontecimiento
+la costa
+el método
+la comunidad
+el coche
+la página
+la frecuencia
+la conclusión
+la escena
+la estructura
+el beneficio
+el alimento
+la velocidad
+el barrio
+el análisis
+la frontera
+el temor
+el ataque
+el cine
+la rama
+el comienzo
+el barco
+la partida
+el aparato
+el extranjero
+la cámara
+la creación
+la gana
+la moda
+el ruido
+la cama
+la técnica
+el consejo
+la violencia
+el sonido
+la estrella
+la mirada
+la pierna
+el hambre
+el placer
+la conferencia
+la propuesta
+la profesión
+el objetivo
+el honor
+la montaña
+el instante
+el viento
+la lluvia
+el ejército
+el tren
+el círculo
+la ventaja
+la isla
+el torno
+la amistad
+la cadena
+el político
+el rey
+el ánimo
+el trato
+el ejercicio
+la organización
+el agosto
+el secretario
+el dedo
+el gasto
+el café
+el diálogo
+el discurso
+la hermana
+la caja
+el juez
+el particular
+el poeta
+la sorpresa
+la ventana
+la característica
+la suma
+el volumen
+la estación
+el argumento
+la categoría
+la plata
+el conflicto
+el avión
+la ropa
+el examen
+el habitante
+la justicia
+el criterio
+el plazo
+el kilómetro
+el hospital
+la satisfacción
+la silla
+la juventud
+el acceso
+el marco
+la prensa
+la excepción
+la ausencia
+la sombra
+la profundidad
+la leche
+la consideración
+el premio
+el nacimiento
+el invierno
+el diciembre
+el comportamiento
+la crítica
+el fuego
+la tendencia
+la norma
+la rueda
+el puente
+el rasgo
+el cuento
+el signo
+la señal
+la campaña
+el puerto
+la aventura
+la marca
+la ilusión
+la compra
+la inteligencia
+la virtud
+el remedio
+el territorio
+la facultad
+la fotografía
+el techo
+la conducta
+el salto
+el pan
+la disposición
+el general
+la disciplina
+el personal
+la columna
+el indio
+el gato
+el margen
+la resistencia
+la pérdida
+el tratamiento
+la entrevista
+el espectáculo
+la personalidad
+el mayo
+la representación
+el régimen
+la punta
+la alegría
+la misión
+el empleo
+la participación
+el período
+la busca
+la superficie
+la pasión
+el vehículo
+el enero
+el capítulo
+el fracaso
+el experto
+la inquietud
+el organismo
+la canción
+la religión
+el departamento
+el periodista
+la interpretación
+la belleza
+la universidad
+la riqueza
+el rato
+el equilibrio
+el fruto
+el representante
+el exceso
+la capa
+el defecto
+la fábrica
+la espalda
+el género
+la economía
+el bosque
+el paisaje
+el llamado
+el paciente
+la tensión
+el ministro
+el impulso
+el comercio
+la espera
+la reserva
+la competencia
+la observación
+el vacío
+la cifra
+la escala
+el procedimiento
+la fórmula
+el ámbito
+el informe
+la dimensión
+el cliente
+la manifestación
+el pico
+la sensibilidad
+el regreso
+la temperatura
+el julio
+la bomba
+el órgano
+el avance
+la humanidad
+la firma
+el soldado
+el clima
+la emoción
+el automóvil
+el mal
+la habilidad
+la identidad
+la desgracia
+el deber
+la cola
+el progreso
+la muestra
+el hábito
+el mecanismo
+la vivienda
+el área
+la mezcla
+la habitación
+la instrucción
+la versión
+el lujo
+la intervención
+la llegada
+el alrededor
+el testigo
+el dominio
+la raza
+el descubrimiento
+la vacaciones
+la provincia
+el saber
+la claridad
+la arena
+la postura
+el salón
+el escenario
+el largo
+el hotel
+el oficio
+la fila
+el patrón
+el pecho
+la tienda
+la protección
+el funcionario
+el transporte
+la red
+la caída
+el valle
+el vuelo
+el sexo
+la iniciativa
+la concentración
+el grito
+la esencia
+la cocina
+el reflejo
+la definición
+el abogado
+la sesión
+el reloj
+el muchacho
+el octubre
+la exposición
+el ingreso
+el dibujo
+el hueso
+el militar
+el motor
+la oposición
+el patio
+la fruta
+el ideal
+el actor
+la confusión
+el traje
+la exigencia
+la víctima
+la playa
+el trabajador
+el hierro
+la tela
+la producción
+el febrero
+el símbolo
+la medicina
+la búsqueda
+la tranquilidad
+el espejo
+la comprensión
+el cerebro
+el tiro
+el abuelo
+la declaración
+el sujeto
+la enseñanza
+el permiso
+la evolución
+el tío
+la moral
+el parque
+el ingeniero
+el borde
+el entusiasmo
+la independencia
+la mentira
+el sueldo
+la comparación
+el seno
+el canto
+la potencia
+el oficial
+la fortuna
+el crimen
+el ciudadano
+el baño
+el reconocimiento
+el exterior
+el crédito
+la alternativa
+el canal
+el agente
+el pago
+la filosofía
+el lector
+el triunfo
+el sábado
+la amiga
+la carretera
+la victoria
+el pájaro
+la biblioteca
+la reflexión
+la vocación
+el continente
+la tabla
+el ensayo
+el plato
+el jardín
+la imaginación
+la poesía
+el guardia
+el privilegio
+el monte
+la precisión
+el sacrificio
+el hilo
+la aparición
+el poema
+la curiosidad
+el diente
+el primo
+la apariencia
+la novedad
+el castigo
+el carro
+el aumento
+la pobreza
+el dólar
+el local
+la industria
+el caballero
+el especialista
+la temporada
+el humor
+la nación
+la felicidad
+el amante
+el cálculo
+la composición
+la rapidez
+el huevo
+el crecimiento
+la clave
+la tragedia
+la colección
+la chica
+el prestigio
+la sección
+la bolsa
+la cinta
+el cuello
+la continuación
+el abril
+la actuación
+el factor
+la esquina
+el hombro
+la infancia
+el descanso
+el zapato
+el parecer
+el familiar
+el mérito
+el muro
+el montón
+el disco
+la demanda
+el mueble
+el desastre
+el secreto
+la angustia
+la nube
+la miseria
+el significado
+la fama
+el palacio
+el oído
+el polvo
+el sacerdote
+la lección
+la rosa
+el olor
+el contrato
+la presentación
+la cárcel
+la división
+el revés
+la cualidad
+el índice
+el marzo
+la atmósfera
+el planeta
+el orgullo
+la jornada
+el palo
+el diseño
+la lógica
+la herencia
+el deporte
+la reina
+la bandera
+la maravilla
+la banda
+el cristal
+la anécdota
+la leyenda
+el muerto
+el azúcar
+la inclinación
+el rostro
+la separación
+el eco
+la cita
+la actualidad
+la fantasía
+la promesa
+la pata
+la foto
+la administración
+la civilización
+la ocupación
+el asiento
+la pista
+el testimonio
+el regalo
+la contradicción
+el metal
+el aceite
+el código
+la unión
+la extensión
+el duro
+el varón
+la evidencia
+la dignidad
+el escándalo
+el colega
+el horario
+la orilla
+la copia
+la huella
+el ejemplar
+el cura
+la garantía
+el vaso
+el perfil
+la proporción
+la ceremonia
+el vidrio
+la ruta
+el anuncio
+la soledad
+la tesis
+el rincón
+la nariz
+el bolsillo
+la asociación
+el mando
+el sabor
+la década
+la preparación
+el afecto
+la protesta
+la patria
+el consumo
+la selva
+la deuda
+el horizonte
+el talento
+el gas
+el té
+la gloria
+el noviembre
+el candidato
+la llave
+el inconveniente
+el afán
+el etcétera
+la comisión
+la posesión
+la dama
+la onda
+la botella
+la torre
+la combinación
+el cadáver
+el paquete
+el apellido
+la intensidad
+la explosión
+el odio
+el universo
+el milagro
+la entrega
+el mapa
+el héroe
+el lunes
+el tráfico
+el terror
+la casualidad
+la risa
+la cuerda
+la consulta
+la edición
+el rayo
+la tía
+el adulto
+el voto
+El parque
+la oferta
+la vergüenza
+el ave
+la rodilla
+el paseo
+el registro
+el pintor
+el delito
+el vestido
+el relato
+el baile
+el misterio
+Ciclo
+el síntoma
+amenaza
+el recorrido
+la concepción
+la tristeza
+la vaca
+la criatura
+la creencia
+el núcleo
+el perdón
+la madrugada
+el obrero
+el cariño
+el ángel
+el rigor 
+el contraste
+el turno 
+el reino
+el funcionamiento
+el auto
+el ala
+el debate
+la aplicación
+el laboratorio
+el vendedor
+la copa
+el tratado
+el rechazo
+la totalidad
+el papá
+la mamá
+la vela
+el establecimiento
+Acción 
+el matiz
+la meta 
+la comodidad
+el pariente
+la distribución
+la invitación
+la destrucción
+el máximo
+la tarjeta
+las fases 
+la tropa
+Turba
+el socio
+Persona
+el guía
+el hielo
+la primavera
+la simpatía
+el centímetro
+la pantalla
+el toro
+el cultivo
+el horror
+el bienestar
+la paciencia
+la convicción 
+el uniforme
+la media
+el mínimo
+el compañero
+el junio
+el drama
+el doble
+el episodio
+la afirmación
+el bar
+la liberación
+la estancia
+la variedad
+el capitán
+la droga
+el taller
+el desorden
+el esclavo
+el manejo
+la lágrima
+la colaboración
+el ángulo
+el impacto
+la urgencia
+el creador
+la luna
+la instalación
+el homenaje
+la ruina
+Por 
+la ola
+la oreja
+la abuela
+la doña
+el arco
+el oriente
+el rumbo
+la ejecución
+el caos
+la colonia
+el alcohol
+la nieve
+la multitud
+el ganado
+el pez
+el líder
+el club
+el desierto
+la escritura
+la danza
+el concierto
+el partidario
+el templo
+el líquido
+la debilidad
+la ambición
+la locura
+el comerciante
+la camisa
+la pluma
+la pelota
+el pasaje
+la limpieza
+la admiración
+el fantasma
+la transformación
+la caza
+el almacén
+la expectativa
+la ruptura
+la inversión
+la herida
+la hipótesis
+el giro
+el esquema
+el mito
+la oscuridad
+la pensión
+la desaparición
+el bloque
+el cierre
+la broma
+el viernes
+la tumba
+el despacho
+la viuda
+el pantalón
+el intercambio
+la mancha
+el retrato
+la lata
+el combate
+la instancia
+la roca
+la herramienta
+el panorama
+el camión
+el olvido
+la estrategia
+la muchacha
+la propaganda
+la misa
+el inicio
+el fútbol
+la esfera
+la arquitectura
+la especialidad
+el músico
+el eje
+el abandono
+el museo
+el propietario
+el trozo
+la armonía
+el pacto
+la selección
+el protagonista
+el ferrocarril
+la intimidad
+la nave
+la oración
+el cansancio
+el tejido
+la trampa
+la descripción
+el pecado
+la injusticia
+el adiós
+el tabaco
+el suceso
+el antecedente
+la barrera
+el tribunal
+la invasión
+el septiembre
+la dependencia
+la democracia
+la limitación
+el invitado
+el pescado
+el obstáculo
+la aspiración
+el corredor
+el resumen
+la basura
+la escalera
+la gravedad
+el fundamento
+la sustancia
+la derrota
+la sospecha
+la huelga
+el abuso
+el jueves
+el arreglo
+la sal
+la dosis
+el acento
+el aviso
+el lazo
+el entorno
+el nieto
+el príncipe
+el mediodía
+la gota
+el cajón
+la señorita
+la preferencia
+el pozo
+el rumor
+el concurso
+el tesoro
+el presupuesto
+la vigilancia
+la presa
+el estómago
+la bola
+la determinación
+la reforma
+el verso
+el requisito
+el adolescente
+el kilo
+la conquista
+el filósofo
+el genio
+la sucesión
+el componente
+el sufrimiento
+la entidad
+el saludo
+la certeza
+el depósito
+el pasillo
+la solidaridad
+el papa
+la geografía
+el juguete
+el chiste
+el aprendizaje
+el esposo
+la boda
+el fresco
+el lago
+la orientación
+la madurez
+la demostración
+el cumplimiento
+el respaldo
+el incendio
+la joya
+el cementerio
+la publicación
+la variación
+la promoción
+la sentencia
+la resolución
+la coincidencia
+el estímulo
+la barra
+la novia
+el piano
+la pretensión
+el habla
+el novio
+el espectador
+la bota
+el pretexto
+la fiebre
+la síntesis
+el este
+el nervio
+el científico
+el grano
+la asistencia
+la sonrisa
+el león
+la aceptación
+el labio
+el visitante
+el traslado
+la tentación
+el porvenir
+la atracción
+la corona
+la docena
+la perfección
+la humedad
+la cosecha
+la desesperación
+la curva
+el amo
+el humo
+la realización
+el cuartel
+el tránsito
+el énfasis
+el empresario
+el saco
+la cruz
+la pausa
+el vicio
+el impuesto
+el arquitecto
+el cruce
+la convivencia
+el cable
+la bondad
+el experimento
+la crónica
+la dictadura
+la eficacia
+el vapor
+la bebida
+la charla
+la gestión
+la cartera
+la circulación
+la denuncia
+la tormenta
+el foco
+la residencia
+el cuero
+la hierba
+la manzana
+el pedazo
+la sabiduría
+el cigarrillo
+la magnitud
+el botón
+la igualdad
+la noción
+la semilla
+la avenida
+el diablo
+el hueco
+el colaborador
+el capricho
+la guitarra
+la agencia
+la rabia
+el monumento
+la correspondencia
+el barro
+la fuga
+la identificación
+el contexto
+el sombrero
+el ayudante
+la maniobra
+el prejuicio
+la recomendación
+el instinto
+la precaución
+el robo
+el cabello
+la utilidad
+la queja
+el celo
+la publicidad
+la índole
+el choque
+la tecnología
+el tubo
+la mercancía
+el tronco
+el culto
+la palma
+la prenda
+el coro
+el túnel
+la cercanía
+el cuchillo
+el desprecio
+el plástico
+el complejo
+la naranja
+la cuota
+la mosca
+la doctrina
+la laguna
+la distinción
+la tribu
+el refugio
+la cena
+la incertidumbre
+el ahorro
+la prisión
+el investigador
+el técnico
+el paraíso
+el postre
+la alimentación
+la miel
+el desafío
+el aeropuerto
+el abrigo
+el sello
+la campana
+el incidente
+el fragmento
+la mina
+el restaurante
+el porcentaje
+el conductor
+la magia
+el comedor
+la seriedad
+la gallina
+la espada
+la excelencia
+el músculo
+la persecución
+el imperio
+el casco
+la pelea
+el retorno
+la vera
+el latín
+la rutina
+la mejora
+el domicilio
+la porquería
+el susto
+el amanecer
+la célula
+el crítico
+la inspiración
+el ladrillo
+la proyección
+la lana
+el infierno
+el acero
+el preso
+el billete
+la tontería
+el cauce
+la ignorancia
+el encanto
+la sed
+el escudo
+la muñeca
+el rango
+el invento
+el recinto
+la tinta
+la garganta
+el viajero
+el asesino
+el rito
+el atractivo
+la frustración
+el cemento
+la catástrofe
+el dulce
+la recuperación
+el almuerzo
+la uña
+el costo
+el manifiesto
+la repetición
+el patrimonio
+la estatua
+la decadencia
+el enfermero
+el aficionado
+el agujero
+el arroz
+la cerveza
+la escasez
+el ministerio
+la transición
+la negativa
+la falda
+el cantante
+la constancia
+el anillo
+el balance
+el entendimiento
+el transcurso
+el desayuno
+la alfombra
+el historiador
+la ficción
+el jugador
+el cartel
+la desconfianza
+la respiración
+la caña
+el prisionero
+el turista
+la abundancia
+el asistente
+el queso
+el indicio
+el cerro
+la galería
+el engaño
+la continuidad
+la receta
+la conveniencia
+la carencia
+el cerdo
+el empeño
+la agresión
+la fortaleza
+el balcón
+el observador
+la renta
+la justificación
+el enfrentamiento
+la junta
+la trayectoria
+la indiferencia
+la taza
+el vínculo
+el cuaderno
+el pánico
+el cañón
+el pollo
+la trascendencia
+la corrupción
+la confesión
+la corbata
+el macho
+la secuencia
+el cáncer
+el archivo
+el trámite
+la raya
+el televisor
+la estabilidad
+la grandeza
+la prisa
+la matemática
+el demonio
+la manga
+la seda
+la envidia
+la emergencia
+la grasa
+el alcalde
+el congreso
+el aplauso
+la prima
+la ansiedad
+el dirigente
+el ascenso
+la finalidad
+la nostalgia
+la mención
+la afición
+la lástima
+el lápiz
+el nido
+la orquesta
+la conexión
+el vigor
+el salario
+el filo
+el maíz
+la autonomía
+la ama
+el beso
+la cintura
+la pauta
+la recepción
+la bala
+el suicidio
+la placa
+el asesinato
+la mentalidad
+la jerarquía
+la duración
+el hallazgo
+la proximidad
+la estadística
+el castillo
+la traducción
+la diversión
+la introducción
+la lámpara
+el dicho
+la audiencia
+el pasajero
+el costado
+el otoño
+la feria
+el exilio
+el portador
+el obispo
+la apertura
+la ideología
+el cazador
+el seguro
+el ingenio
+la hembra
+el bando
+el dormitorio
+la plenitud
+el coraje
+el plomo
+el descendiente
+la república
+la sierra
+el guante
+el cartón
+la adolescencia
+la complicación
+el taxi
+la porción
+el timbre
+el monstruo
+el bebé
+el trayecto
+el globo
+la celebración
+el quehacer
+la obsesión
+el bronce
+la licencia
+la motivación
+la depresión
+el pulmón
+la fibra
+el petróleo
+la permanencia
+el miércoles
+el horno
+el logro
+el vientre
+la petición
+el civil
+el reparto
+la advertencia
+la previsión
+el mandato
+la timidez
+el toque
+la máscara
+la venganza
+la barba
+la alarma
+el aliento
+la pureza
+la comedia
+la aldea
+el párrafo
+el brillo
+el rastro
+el adorno
+el mono
+el razonamiento
+el pastor
+el tramo
+el reto
+la pesadilla
+el centenar
+la molestia
+la paja
+la concesión
+el nudo
+el martes
+la utilización
+la tapa
+la traición
+la pesca
+el malestar
+la rata
+el defensor
+el auxilio
+el cobre
+la intuición
+la invención
+la vena
+el freno
+la interrupción
+la condena
+la inocencia
+el relieve
+la semejanza
+la cumbre
+el colmo
+el administrador
+el decreto
+la ironía
+la seña
+el ritual
+el escritorio
+la solicitud
+la víspera
+el insecto
+el ridículo
+la ira
+la ceniza
+la monja
+el parto
+el circuito
+la oveja
+la dueña
+la ubicación
+la hacienda
+la antigüedad
+el puño
+la excusa
+la trama
+la alteración
+la acusación
+la salvación
+el fundador
+el original
+la maquinaria
+la tortura
+el humano
+la insistencia
+el sobrino
+el apunte
+el antepasado
+el sillón
+el colectivo
+la dieta
+el teniente
+el polo
+el abismo
+el algodón
+la harina
+la exactitud
+el provecho
+la prudencia
+el insulto
+el flujo
+la aguja
+el planteamiento
+la cortina
+la reproducción
+la expansión
+el umbral
+la alusión
+el descenso
+el océano
+la proposición
+el absurdo
+la parada
+el titular
+el calendario
+el interlocutor
+el disgusto
+la conservación
+la elaboración
+el correo
+el circo
+el adversario
+la cubierta
+el aniversario
+la franja
+la pila
+la goma
+el ancho
+la uva
+la ética
+la inscripción
+la adquisición
+el sentir
+la renuncia
+el préstamo
+la dedicación
+el instituto
+la paloma
+la devoción
+la espina
+la aprobación
+la fachada
+el jugo
+el discípulo
+el coronel
+la modificación
+la acumulación
+el mantenimiento
+la cabecera
+la revelación
+la peseta
+la cuna
+el ácido
+la incapacidad
+la villa
+el lecho
+el alquiler
+la redacción
+la ficha
+la inseguridad
+el coma
+la agricultura
+la naturalidad
+la serenidad
+la pistola
+el diputado
+el duelo
+el comandante
+la ópera
+la réplica
+el pulso
+la explotación
+la bestia
+el abrazo
+el asalto
+el reposo
+la lámina
+la pasta
+la polémica
+el chocolate
+la generosidad
+el realismo
+el acorde
+la sugerencia
+el cumpleaños
+la ronda
+la capilla
+el expediente
+la tolerancia
+la sopa
+el rival
+la ternura
+la variante
+el molde
+el espectro
+el recorte
+el reglamento
+la vitalidad
+la adaptación
+la etiqueta
+la muralla
+la represión
+la reducción
+la difusión
+el encargo
+el oeste
+el pescador
+el diagnóstico
+la cuadra
+la rienda
+la crueldad
+el ansia
+la cúpula
+la llama
+la vegetación
+el lema
+el bote
+el perfume
+la central
+la pertenencia
+la casita
+la alianza
+el ratón
+la hazaña
+la dureza
+la sábana
+la revisión
+la retirada
+el aroma
+el optimismo
+el mate
+el evento
+el físico
+el pasto
+el gallo
+el rendimiento
+la lentitud
+el aula 
+el himno
+el sindicato
+la mariposa
+la fidelidad
+el retraso
+el desplazamiento
+el compatriota
+la localidad
+el lobo
+la asamblea
+el pañuelo
+el temblor
+la gira
+el manto
+el asombro
+el gobernador
+la amplitud
+el carbón
+el campamento
+la excursión
+el tomate
+el cinturón
+el bulto
+el vocabulario
+la especulación
+el manual
+el disparo
+el residuo
+la vanidad
+la renovación
+la peste
+la expedición
+la mecánica
+la electricidad
+el ascensor
+la bicicleta
+el aporte
+la beca
+el trigo
+la plataforma
+la maestra
+la clínica
+el heredero
+el estadio
+el desfile
+el buque
+el parentesco
+el fallo
+la rebeldía
+la corrección
+la chispa
+la virgen
+la supervivencia
+la caridad
+la comunión
+el embajador
+el tercio
+la iluminación
+la censura
+la disputa
+el esplendor
+el perjuicio
+la medalla
+la lealtad
+el divorcio
+el enfoque
+la firmeza
+la colina
+la parcela
+la jaula
+el ajuste
+el entierro
+el servidor
+la superioridad
+el turismo
+la barbaridad
+el rollo
+el triángulo
+el aislamiento
+el alivio
+el entrenamiento
+el truco
+el disparate
+el cocinero
+el fotógrafo
+la imposición
+el consuelo
+la transmisión
+el sendero
+el desacuerdo
+la academia
+la catedral
+la vanguardia
+el embarazo
+la imposibilidad
+el reportaje
+el tambor
+la fundación
+la transparencia
+la elegancia
+el criminal
+el elogio
+la manta
+la alerta
+la sinceridad
+la cátedra
+el repertorio
+la plancha
+la terraza
+la gala
+la era
+el arranque
+la patada
+el lapso
+el sudor
+el apetito
+la indicación
+el aliado
+la presidencia
+el consejero
+la consigna
+la cortesía
+el atributo
+la furia
+la estatura
+la vejez
+el terremoto
+la tira
+el emisor
+la integridad
+la autorización
+el seminario
+la marea
+el resentimiento
+el delincuente
+el esqueleto
+la indignación
+la escultura
+la infinidad
+el pilar
+la percepción
+la minoría
+el deterioro
+la sanción
+la maleta
+la faena
+la serpiente
+la agitación
+la ganancia
+el pino
+el llanto
+la ida
+la falla
+la contribución
+la burla
+el seguidor
+la perla
+la integración
+la siesta
+el bigote
+la niñez
+la leña
+el atardecer
+el interrogante
+el lente
+el compás
+la llanura
+el collar
+el veneno
+el mármol
+la biografía
+la rebelión
+el hígado
+el ladrón
+el tablero
+la imitación
+el adelanto
+el intervalo
+el trago
+la fracción
+el convento
+el arroyo
+el enlace
+el diccionario
+la afueras
+la ceja
+la constitución
+la clasificación
+el lío
+la sede
+el litro
+la bandeja
+la aproximación
+el trapo
+el conocedor
+el altar
+el acierto
+el piloto
+la computadora
+el alambre
+el mango
+el rosario
+la reconstrucción
+la parroquia
+el comprador
+la piedad
+la niebla
+el verbo
+la cadera
+la procesión
+la encuesta
+la cría
+la narración
+el ramo
+el traidor
+el catálogo
+el protector
+el amparo
+la farmacia
+la cima
+el riñón
+la finca
+la calificación
+el caudal
+el trastorno
+el jovencito
+la incorporación
+el corral
+la fatiga
+la bruja
+la exploración
+la ilustración
+el cómplice
+la melodía
+el productor
+el portero
+el conejo
+la densidad
+la apuesta
+la nacionalidad
+el mozo
+el cuerno
+la talla
+el comisario
+el acercamiento
+el contorno
+el egoísmo
+el bordo
+la compensación
+la prohibición
+el laberinto
+la eternidad
+la pastilla
+la mierda
+la contienda
+el chorro
+el clavo
+la sequía
+la dinámica
+el ocio
+la normalidad
+la resonancia
+la chaqueta
+el asco
+el pleito
+la sencillez
+la estupidez
+el senador
+el rencor
+la probabilidad
+el gobernante
+la merced
+la tonelada
+el rebelde
+el anhelo
+la princesa
+la embajada
+la amargura
+la validez
+el tacto
+el codo
+la chimenea
+el abanico
+la camiseta
+la corteza
+la cordillera
+la longitud
+la psicología
+la exageración
+la apreciación
+el estallido
+el talón
+el colchón
+el tinte
+la imprenta
+el bastón
+la humillación
+el trance
+el volante
+el noble
+el reclamo
+el asesor
+el novelista
+el herido
+el grueso
+la grabación
+el frasco
+la verdura
+la violación
+la innovación
+la tertulia
+la carcajada
+la cancha
+el aburrimiento
+la exportación
+el tranvía
+el cordón
+la prioridad
+la modalidad
+el desenlace
+el bailarín
+el artefacto
+el trono
+el adjetivo
+la gama
+el gabinete
+el peón
+el inspector
+la órbita
+la autopista
+la prosa
+el paréntesis
+la fabricación
+la lesión
+la mejilla
+el muelle
+el velo
+la decoración
+el rancho
+la negociación
+la euforia
+el convencimiento
+el desconcierto
+el economista
+la sobra
+la tasa
+la balanza
+la factura
+la hormiga
+el oso
+el trazo
+el gusano
+la manía
+la disculpa
+la metáfora
+la penetración
+el whisky
+el delirio
+la librería
+la documentación
+la decena
+el tigre
+la senda
+el temperamento
+la dicha
+el acta
+la cera
+el tanque
+la batería
+la crema
+el entretenimiento
+la pala
+la servidumbre
+el psicólogo
+la actriz
+el burro
+la procedencia
+el fiscal
+el participante
+el rescate
+el apuro
+la cautela
+la táctica
+el descuido
+la matanza
+el escrito
+la pinta
+el caldo
+la agonía
+la tregua
+el vestuario
+la bodega
+la antena
+la maldad
+la obediencia
+la ocurrencia
+el complemento
+el editor
+el periodismo
+la piscina
+la inyección
+el reproche
+la consistencia
+la nobleza
+la impotencia
+la hostilidad
+el medicamento
+la conspiración
+la detención
+el autobús
+la destreza
+la entrañas
+la gratitud
+el editorial
+el bicho
+el martillo
+la cooperación
+la elevación
+el atentado
+el puñado
+la sirena
+la espuma
+el cirujano
+la vereda
+la reivindicación
+la infección
+el chiquillo
+la distracción
+el ingrediente
+la pugna
+la torta
+el intérprete
+la araña
+la facción
+el diplomático
+la exhibición
+el escaparate
+el sargento
+la estética
+la caballería
+el padrino
+la diversidad
+el banquete
+el andar
+el gigante
+el pabellón
+la abeja
+el violín
+el astro
+el dictador
+el roce
+la prolongación
+el cráneo
+el agradecimiento
+la audacia
+el cólera
+la resignación
+la legislación
+el caramelo
+la pólvora
+el rol
+el idiota
+la bahía
+la latitud
+el buey
+el vaivén
+la equivocación
+el comunismo
+la partícula
+el intermedio
+la limosna
+el equivalente
+la flecha
+la desilusión
+el pato
+la grieta
+el jinete
+el agricultor
+la garra
+el soporte
+la concurrencia
+la pirámide
+el fósforo
+el profeta
+el muslo
+el retiro
+el comando
+la emisión
+el tenor
+la recompensa
+la complicidad
+el recelo
+la vibración
+la restricción
+la vara
+la clientela
+la soberanía
+la frialdad
+la inspección
+la inicial
+la incidencia
+el retroceso
+el micrófono
+la ventanilla
+la extinción
+el infinito
+el campeón
+el oxígeno
+la rigidez
+la despedida
+el encaje
+la repercusión
+el ganador
+el emperador
+el cometa
+el precedente
+el mosaico
+la significación
+la contestación
+el asilo
+el incremento
+el lomo
+la navegación
+la edificación
+la abstracción
+el mortal
+la cabina
+el guerrero
+la acera
+el centavo
+el molino
+la decepción
+el ente
+la inundación
+la diligencia
+la complejidad
+la vecindad
+la cabra
+el olfato
+la denominación
+la envergadura
+el admirador
+el rebaño
+el vegetal
+la fiera
+la olla
+el coco
+el sótano
+la agresividad
+la adhesión
+la convención
+el paraje
+el cohete
+la almohada
+la eficiencia
+el tejado
+el elefante
+la navaja
+la maldición
+el marinero
+el bachillerato
+el desequilibrio
+el desperdicio
+la ampliación
+el recipiente
+el despliegue
+la libra
+la incursión
+la toalla
+el tenis
+la descarga
+la higiene
+la cuenca
+la cal
+el pionero
+el volcán
+la puta
+el diamante
+la delicadeza
+la expulsión
+el enigma
+la hectárea
+el inmigrante
+la prevención
+el cerco
+la penumbra
+la jugada
+la estampa
+la cueva
+no
+ya
+muy
+también
+así
+sí
+bien
+entonces
+tan
+ahora
+después
+siempre
+sólo
+antes
+cómo
+aquí
+luego
+casi
+durante
+nunca
+además
+hoy
+allí
+dentro
+ahí
+todavía
+tampoco
+aún
+incluso
+quizás
+mal
+allá
+solamente
+bueno
+través
+junto
+cerca
+pronto
+realmente
+dónde
+encima
+fuera
+lejos
+claro
+atrás
+adelante
+arriba
+alrededor
+precisamente
+apenas
+simplemente
+siquie
+abajo
+totalmente
+especialmente
+detrás
+finalmente
+jamás
+debajo
+aun
+perfectamente
+recién
+peor
+completamente
+inmediatamente
+delante
+justo
+salvo
+directamente
+probablemente
+exactamente
+seguramente
+rápidamente
+tarde
+acaso
+prácticamente
+ayer
+absolutamente
+cuándo
+mañana
+acerca
+aparte
+definitivamente
+profundamente
+verdaderamente
+únicamente
+igualmente
+nuevamente
+generalmente
+claramente
+justamente
+naturalmente
+efectivamente
+fácilmente
+evidentemente
+exclusivamente
+cuando
+suficientemente
+aparentemente
+afuera
+constantemente
+menudo (a menudo)
+personalmente
+lentamente
+posiblemente
+adentro
+repente (de repente)
+normalmente
+principalmente
+acá
+aproximadamente
+necesariamente
+plenamente
+sencillamente
+actualmente
+sumamente
+posteriormente
+últimamente
+relativamente
+enfrente
+continuamente
+estrictamente
+particularmente
+fundamentalmente
+enseguida
+afortunadamente
+anteriormente
+recientemente
+puramente
+ciertamente
+libremente
+seguida
+previamente
+francamente
+ligeramente
+ojalá
+propiamente
+seriamente
+habitualmente
+tranquilamente
+difícilmente
+desgraciadamente
+automáticamente
+indudablemente
+anoche
+sucesivamente
+permanentemente
+concretamente
+curiosamente
+lógicamente
+asimismo
+diariamente
+excesivamente
+inclusive
+sinceramente
+antemano
+simultáneamente
+enormemente
+literalmente
+frecuentemente
+fuertemente
+enteramente
+cuidadosamente
+obviamente
+inevitablemente
+físicamente
+básicamente
+intensamente
+suavemente
+lamentablemente
+antaño
+adónde
+extraordinariamente
+íntimamente
+mutuamente
+correctamente
+independientemente
+altamente
+supuestamente
+ampliamente
+adonde
+decididamente
+bruscamente
+violentamente
+radicalmente
+específicamente
+extremadamente
+oficialmente
+brevemente
+esencialmente
+abiertamente
+tradicionalmente
+firmemente
+espontáneamente
+económicamente
+duramente
+públicamente
+largamente
+voluntariamente
+parcialmente
+debidamente
+viceversa
+inicialmente
+terriblemente
+mentalmente
+ser
+haber
+estar
+tener
+hacer
+poder
+decir
+ir
+ver
+dar
+saber
+querer
+llegar
+pasar
+deber
+poner
+parecer
+quedar
+creer
+hablar
+llevar
+dejar
+seguir
+llamar
+venir
+pensar
+salir
+volver
+tomar
+conocer
+vivir
+sentir
+tratar
+mirar
+contar
+empezar
+esperar
+buscar
+existir
+entrar
+trabajar
+escribir
+perder
+producir
+ocurrir
+entender
+pedir
+recibir
+recordar
+terminar
+permitir
+aparecer
+conseguir
+comenzar
+servir
+sacar
+necesitar
+mantener
+resultar
+leer
+caerse
+cambiar
+presentar
+crear
+abrir
+considerar
+oír
+acabar
+convertir
+ganar
+formar
+traer
+partir
+morir
+aceptar
+realizar
+suponer
+comprender
+lograr
+explicar
+preguntar
+tocar
+reconocer
+estudiar
+alcanzar
+nacer
+dirigir
+correr
+utilizar
+pagar
+ayudar
+gustar
+jugar
+escuchar
+cumplir
+ofrecer
+descubrir
+levantar
+intentar
+usar
+decidir
+repetir
+olvidar
+valer
+comer
+mostrar
+ocupar
+mover
+continuar
+suceder
+fijar
+referir
+acercar
+dedicar
+aprender
+comprar
+subir
+evitar
+interesar
+cerrar
+echar
+responder
+sufrir
+importar
+obtener
+observar
+indicar
+imaginar
+soler
+detener
+desarrollar
+señalar
+elegir
+preparar
+proponer
+demostrar
+significar
+reunir
+faltar
+acompañar
+desear
+enseñar
+construir
+vender
+representar
+desaparecer
+mandar
+andar
+preferir
+asegurar
+crecer
+surgir
+matar
+entregar
+colocar
+establecer
+guardar
+iniciar
+bajar
+notar
+meter
+actuar
+pretender
+acordar
+cortar
+corresponder
+romper
+adquirir
+lanzar
+aprovechar
+apoyar
+negar
+avanzar
+resolver
+costar
+exigir
+aumentar
+recoger
+abandonar
+imponer
+obligar
+aplicar
+pertenecer
+disponer
+expresar
+provocar
+defender
+quitar
+conservar
+depender
+marcar
+compartir
+consistir
+constituir
+cubrir
+funcionar
+caber
+atender
+insistir
+sentar
+merecer
+incluir
+cruzar
+tender
+anunciar
+despertar
+comentar
+publicar
+cargar
+participar
+impedir
+salvar
+escapar
+tirar
+contestar
+preocupar
+prestar
+pesar
+exponer
+viajar
+separar
+regresar
+contemplar
+recorrer
+durar
+retirar
+permanecer
+asistir
+organizar
+contener
+visitar
+informar
+enviar
+cuidar
+intervenir
+extender
+comprobar
+dormir
+discutir
+enfrentar
+conducir
+firmar
+respetar
+sostener
+advertir
+transformar
+bastar
+mencionar
+plantear
+probar
+manejar
+unir
+caminar
+coincidir
+llenar
+dominar
+medir
+atravesar
+destacar
+pronunciar
+distinguir
+introducir
+comunicar
+invitar
+instalar
+tardar
+mejorar
+emplear
+convenir
+recuperar
+definir
+superar
+afirmar
+interpretar
+admitir
+identificar
+afectar
+reducir
+montar
+parar
+devolver
+ejercer
+poseer
+proteger
+causar
+determinar
+cobrar
+dividir
+inventar
+limitar
+luchar
+acudir
+analizar
+encargar
+destinar
+comparar
+celebrar
+sonar
+manifestar
+controlar
+saltar
+citar
+requerir
+incorporar
+perseguir
+procurar
+casarse
+someter
+fundar
+elevar
+cantar
+asumir
+aclarar
+arrastrar
+declarar
+nombrar
+confundir
+describir
+calcular
+conformar
+pintar
+repartir
+hallar
+ordenar
+convencer
+rodear
+reflejar
+rechazar
+contribuir
+vencer
+alejar
+transmitir
+marchar
+destruir
+opinar
+cometer
+trasladar
+concluir
+oponer
+figurar
+concentrar
+ignorar
+dudar
+descansar
+adoptar
+arrancar
+disfrutar
+molestar
+atreverse
+ceder
+atraer
+acumular
+practicar
+gozar
+justificar
+soportar
+resistir
+vestir
+sorprender
+proceder
+condenar
+consumir
+sugerir
+conceder
+componer
+arreglar
+animar
+apuntar
+liberar
+añadir
+girar
+volar
+facilitar
+solicitar
+temer
+atacar
+pegar
+juzgar
+interrumpir
+fabricar
+confiar
+operar
+basar
+estimar
+confirmar
+integrar
+aprobar
+grabar
+equivocar
+llorar
+proyectar
+beber
+apreciar
+experimentar
+amar
+robar
+reirse
+mezclar
+distribuir
+apartar
+reclamar
+quemar
+obedecer
+satisfacer
+concebir
+reaccionar
+acusar
+gastar
+regalar
+quejarse
+penetrar
+rendir
+registrar
+limpiar
+atribuir
+ocultar
+enterar
+ajustar
+aspirar
+recurrir
+huir
+percibir
+transcurrir
+recomendar
+corregir
+consultar
+padecer
+elaborar
+gritar
+traducir
+sumar
+alimentar
+eliminar
+renunciar
+acostumbrar
+revisar
+carecer
+prometer
+descender
+reproducir
+constar
+asociar
+desconocer
+fallar
+perdonar
+agradecer
+admirar
+revelar
+agregar
+completar
+combatir
+aportar
+derivar
+prohibir
+proporcionar
+saludar
+relacionar
+investigar
+ubicar
+modificar
+lavar
+invadir
+desplazar
+adelantar
+examinar
+sustituir
+implicar
+ingresar
+respirar
+esconder
+alterar
+emitir
+inclinar
+desprender
+circular
+pelear
+aconsejar
+arrojar
+criticar
+hundir
+encerrar
+denominar
+impulsar
+empujar
+dictar
+chocar
+borrar
+aguantar
+coger
+golpear
+ascender
+complicar
+engañar
+agotar
+precisar
+suspender
+ampliar
+cultivar
+explotar
+despedir
+colaborar
+invertir
+provenir
+forzar
+criar
+confesar
+doblar
+disminuir
+averiguar
+sospechar
+pasear
+depositar
+captar
+empeñar
+sobrevivir
+influir
+multiplicar
+doler
+favorecer
+escoger
+colgar
+llover
+absorber
+imitar
+educar
+comprometer
+aproximar
+bailar
+inspirar
+agarrar
+prolongar
+adaptar
+situar
+curar
+desempeñar
+extraer
+apagar
+prever
+expulsar
+exhibir
+tapar
+acceder
+encender
+disparar
+atar
+generar
+abarcar
+brindar
+solucionar
+acomodar
+variar
+otorgar
+cesar
+amenazar
+callar
+vigilar
+orientar
+portar
+avisar
+renovar
+soltar
+abordar
+castigar
+fracasar
+calificar
+juntar
+ejecutar
+protestar
+impresionar
+comportar
+dibujar
+gobernar
+deshacer
+reconstruir
+denunciar
+garantizar
+combinar
+divertir
+conquistar
+envolver
+emprender
+anticipar
+quebrar
+equilibrar
+asomar
+optar
+estallar
+copiar
+inaugurar
+apretar
+mentir
+contratar
+retener
+prender
+formular
+fumar
+especializar
+caracterizar
+designar
+competir
+secar
+imprimir
+conversar
+lamentar
+alzar
+iluminar
+guiar
+efectuar
+calentar
+proseguir
+cansar
+heredar
+librar
+brillar
+rescatar
+extrañar
+asustar
+anotar
+remontar
+convocar
+generalizar
+habitar
+armar
+anular
+alargar
+estimular
+pisar
+violar
+enriquecer
+alegrar
+transportar
+triunfar
+acoger
+sembrar
+acentuar
+entretener
+desviar
+retroceder
+sonreir
+relatar
+difundir
+lucir
+reservar
+sacrificar
+exagerar
+residir
+promover
+reparar
+administrar
+ahorrar
+enterrar
+contraer
+reflexionar
+centrar
+originar
+ahogar
+esforzar
+detectar
+autorizar
+afrontar
+restar
+concretar
+picar
+jurar
+rezar
+inducir
+encantar
+privar
+deducir
+redactar
+planear
+abrazar
+tolerar
+descartar
+sujetar
+trazar
+presionar
+reiterar
+distraer
+tropezar
+diseñar
+proveer
+seleccionar
+convivir
+progresar
+abundar
+asimilar
+tejer
+proclamar
+plantar
+derrotar
+frenar
+adivinar
+pescar
+tragar
+flotar
+sacudir
+suprimir
+sobrar
+brotar
+valorar
+diferenciar
+compensar
+asignar
+suscitar
+finalizar
+reforzar
+evolucionar
+presidir
+agitar
+oler
+aludir
+resumir
+burlar
+encajar
+nadar
+acelerar
+desplegar
+desembocar
+aliviar
+cazar
+aplaudir
+motivar
+descuidar
+acostar
+conectar
+arder
+localizar
+herir
+precipitar
+excluir
+adorar
+beneficiar
+despreciar
+improvisar
+emerger
+clavar
+volcar
+barrer
+rogar
+programar
+ensayar
+votar
+aislar
+rodar
+arriesgar
+bautizar
+desatar
+alentar
+descargar
+enamorar
+reemplazar
+soplar
+regir
+bañar
+rozar
+remitir
+disolver
+velar
+persistir
+temblar
+cenar
+tornar
+perjudicar
+prevenir
+culminar
+preceder
+alternar
+acertar 
+batir
+demorar
+calmar
+presumir
+fluir
+asesinar
+preservar
+disimular
+perfeccionar
+cocinar
+navegar
+aplastar
+subrayar
+apoderar
+debatir
+reponer
+disputar
+arrebatar
+odiar
+insinuar
+fallecer
+eludir
+ocasionar
+retomar
+asentar
+estrechar
+traspasar
+consumar
+asaltar
+arrepentir
+felicitar
+presenciar
+derrumbar
+dañar
+asombrar
+oscilar
+recobrar
+vaciar
+morder
+atrapar
+amanecer
+recitar
+explorar
+embarcar
+aguardar
+parir
+refugiar
+verificar
+extinguir
+agradar
+sobrepasar
+narrar
+florecer
+acarrear
+profundizar
+apostar
+clasificar
+recortar
+deslizar
+estirar
+abusar
+complementar
+revivir
+conmover
+charlar
+equivaler
+fomentar
+reanudar
+mudar
+prescindir
+besar
+resaltar
+intercambiar
+consolar
+descomponer
+enfocar
+traicionar
+contrastar
+desenvolver
+interrogar
+subsistir
+revolver
+retornar
+alquilar
+radicar
+mojar
+derribar
+sobresalir
+filtrar
+movilizar
+apelar
+entusiasmar
+coser
+madurar
+almorzar
+albergar
+complacer
+remover
+pecar
+acontecer
+desbordar
+alegar
+encarar
+tranquilizar
+emigrar
+desechar
+estrenar
+incitar
+propiciar
+cuestionar
+fundir
+reprimir
+meditar
+predicar
+encarnar
+negociar
+honrar
+desencadenar
+ofender
+enfriar
+ilustrar
+ratificar
+destrozar
+simular
+consentir
+paralizar
+disipar
+incrementar
+reprochar
+alumbrar
+inscribir
+dotar
+reventar
+aburrir
+diluir
+titular
+frecuentar
+desafiar
+despojar
+reinar
+hervir
+disculpar
+perdurar
+inundar
+articular
+debilitar
+fingir
+igualar
+trepar
+regular
+rematar
+argumentar
+poblar
+contradecir
+manipular
+regar
+evocar
+prosperar
+arrasar
+rebajar
+entrevistar
+replicar
+adornar
+concurrir
+restaurar
+retrasar
+palpar
+aparentar
+oscurecer
+torcer
+derramar
+agravar
+interponer
+topar
+enlazar
+colar
+encaminar
+invocar
+ostentar
+configurar
+prevalecer
+engendrar
+contagiar
+consagrar
+ceñir
+constatar
+dispersar
+vacilar
+capturar
+remediar
+fiar
+desfilar
+reaparecer
+obrar
+coronar
+liquidar
+repasar
+intuir
+devorar
+aferrar
+consolidar
+apresurar
+latir
+apurar
+insultar
+sustentar
+acariciar
+vincular
+fortalecer
+vibrar
+calzar
+evaluar
+emocionar
+editar
+sumergir
+espantar
+agrupar
+atener
+encabezar
+chupar
+inquietar
+expandir
+predecir
+condicionar
+alertar
+enfermar
+indagar
+exceder
+joder
+alarmar
+rascar
+enredar
+suspirar
+conferir
+predominar
+despejar
+premiar
+desayunar
+resucitar
+financiar
+sudar
+perturbar
+envidiar
+reposar
+deteriorar
+desesperar
+ligar
+mediar
+endurecer
+vislumbrar
+entrenar
+razonar
+rectificar
+excitar
+enumerar
+posar
+irritar
+tumbar
+adentrar
+relajar
+recrear
+impartir
+asentir
+aflojar
+ensuciar
+largar
+presentir
+insertar
+discurrir
+engordar
+aventurar
+demandar
+renacer
+restablecer
+sobrevenir
+rebasar
+acatar
+transitar
+percatar
+encomendar
+seducir
+incidir
+vengar
+estropear
+fascinar
+incurrir
+tentar
+resignar
+dialogar
+adherir
+alojar
+internar
+bordear
+instruir
+verter
+desmentir
+descifrar
+entablar
+propagar
+perfilar
+decaer
+disfrazar
+irrumpir
+Fueron
+suficientemente
+oportuno
+a deshora
+la poda
+contender
+cebar
+botar
+achicar
+maldecir
+socorrer
+adormecer
+alabar
+menear
+dilatar
+allanar
+emular
+instar
+desistir
+achuchar
+azuzar
+hender
+sangrar
+inhibir
+titubear
+osar
+apestar
+cagar
+perseverar
+escupir
+remar
+masificar
+enunciar
+vituperar
+elogiar
+agacharse
+reenviar
+halagar
+cercar
+adjudicar
+extirpar
+domesticar
+cicatrizar
+omitir
+infundir
+destemplar
+arrimar
+aventajar
+multar
+esparcir
+estorbar
+atormentar
+malgastar
+enderezar
+condescender
+teñir

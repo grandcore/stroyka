@@ -1,0 +1,11 @@
+{
+    "name": "front-admin_app",
+    "version": "1.0.0",
+    "description": "smth",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "4.17.1"
+    }
+  }

@@ -1,0 +1,279 @@
+version: "3.7"
+
+services:
+  router-default:
+    restart: always
+    build: ./server/router-default
+    container_name: router-default
+    environment: 
+      - PORT=${PORT_ROUTER_DEFAULT_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    ports:
+      - ${PORT_ROUTER_DEFAULT_EXTERNAL}:${PORT_ROUTER_DEFAULT_INTERNAL}
+    depends_on:
+      - api-auth 
+      - api-content
+      - api-users
+      - api-extra 
+      - api-stuff
+      - web-public
+      - web-processes
+      - web-admin
+    links:
+      - api-auth 
+      - api-content
+      - api-users
+      - api-extra 
+      - api-stuff
+      - web-public
+      - web-processes
+      - web-admin
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - network
+
+  api-auth:
+    build: ./server/api-auth/
+    container_name: api-auth
+    environment: 
+      - PORT=${PORT_API_AUTH_INTERNAL}
+      - HOST=${HOST_GENERAL}
+      - SECRET=${SECRET_AUTH_KEY}
+    volumes:
+      - ./server/api-auth/src:/home/src:rw
+    ports:
+      - ${PORT_API_AUTH_EXTERNAL}:${PORT_API_AUTH_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - ftp-default
+      - db-auth
+      - db-content
+      - db-extra
+      - db-stuff
+      - db-users
+
+  api-content:
+    build: ./server/api-content/
+    container_name: api-content
+    environment: 
+      - PORT=${PORT_API_CONTENT_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    volumes:
+      - ./server/api-content/src:/home/src:rw
+    ports:
+      - ${PORT_API_CONTENT_EXTERNAL}:${PORT_API_CONTENT_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - ftp-default
+      - db-auth
+      - db-content
+      - db-extra
+      - db-stuff
+      - db-users
+  api-users:
+    build: ./server/api-users/
+    container_name: api-users
+    environment: 
+      - PORT=${PORT_API_USERS_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    volumes:
+      - ./server/api-users/src:/home/src:rw
+    ports:
+      - ${PORT_API_USERS_EXTERNAL}:${PORT_API_USERS_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - ftp-default
+      - db-auth
+      - db-content
+      - db-extra
+      - db-stuff
+      - db-users
+
+  api-extra:
+    build: ./server/api-extra/
+    container_name: api-extra
+    environment: 
+      - PORT=${PORT_API_EXTRA_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    volumes:
+      - ./server/api-extra/src:/home/src:rw
+    ports:
+      - ${PORT_API_EXTRA_EXTERNAL}:${PORT_API_EXTRA_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+          - ftp-default
+          - db-auth
+          - db-content
+          - db-extra
+          - db-stuff
+          - db-users
+
+  api-stuff:
+    build: ./server/api-stuff/
+    container_name: api-stuff
+    environment: 
+      - PORT=${PORT_API_STUFF_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    volumes:
+      - ./server/api-stuff/src:/home/src:rw
+    ports:
+      - ${PORT_API_STUFF_EXTERNAL}:${PORT_API_STUFF_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - ftp-default
+      - db-auth
+      - db-content
+      - db-extra
+      - db-stuff
+      - db-users
+
+  web-public:
+    build: ./client/web-public/
+    container_name: web-public
+    environment: 
+      - PORT=${PORT_FRONT_PUBLIC_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    #volumes:
+    #  - ./client/web-public:/home/src/:rw
+    ports:
+      - ${PORT_FRONT_PUBLIC_EXTERNAL}:${PORT_FRONT_PUBLIC_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - api-auth 
+      - api-content
+      - api-users
+      - api-extra 
+      - api-stuff
+
+  web-processes:
+    build: ./client/web-processes/
+    container_name: web-processes
+    environment: 
+      - PORT=${PORT_FRONT_PROCESSES_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    volumes:
+      - ./client/web-processes/src:/home/src:rw
+    ports:
+      - ${PORT_FRONT_PROCESSES_EXTERNAL}:${PORT_FRONT_PROCESSES_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - api-auth 
+      - api-content
+      - api-users
+      - api-extra 
+      - api-stuff
+        
+  web-admin:
+    build: ./client/web-admin/
+    container_name: web-admin
+    environment: 
+      - PORT=${PORT_FRONT_ADMIN_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    volumes:
+      - ./client/web-admin/src:/home/src:rw
+    ports:
+      - ${PORT_FRONT_ADMIN_EXTERNAL}:${PORT_FRONT_ADMIN_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - api-auth 
+      - api-content
+      - api-users
+      - api-extra 
+      - api-stuff
+      
+
+  ftp-default:
+    build: ./storage/ftp-default
+    restart: always
+    container_name: ftp-default
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${PORT_FTP_DEFAULT_INTERNAL}
+    volumes:
+      - ./storage/ftp-default/data:/data/db
+    ports: 
+      - ${PORT_FTP_DEFAULT_EXTERNAL}:${PORT_FTP_DEFAULT_INTERNAL}
+
+  db-auth:
+    build: ./storage/db-auth
+    restart: always
+    container_name: db-auth
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${PORT_DB_AUTH_INTERNAL}
+    volumes:
+      - ./storage/db-auth/data:/data/db
+    ports: 
+      - ${PORT_DB_AUTH_EXTERNAL}:${PORT_DB_AUTH_INTERNAL}
+
+  db-content:
+    build: ./storage/db-content
+    restart: always
+    container_name: db-content
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${PORT_DB_CONTENT_INTERNAL}
+    volumes:
+      - ./storage/db-content/data:/data/db
+    ports: 
+      - ${PORT_DB_CONTENT_EXTERNAL}:${PORT_DB_CONTENT_INTERNAL}
+
+  db-users:
+    build: ./storage/db-users
+    restart: always
+    container_name: db-users
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${PORT_DB_USERS_INTERNAL}
+    volumes:
+      - ./storage/db-users/data:/data/db
+    ports: 
+      - ${PORT_DB_USERS_EXTERNAL}:${PORT_DB_USERS_INTERNAL}
+
+  db-extra:
+    build: ./storage/db-extra
+    restart: always
+    container_name: db-extra
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${PORT_DB_EXTRA_INTERNAL}
+    volumes:
+      - ./storage/db-extra/data:/data/db
+    ports: 
+      - ${PORT_DB_EXTRA_EXTERNAL}:${PORT_DB_EXTRA_INTERNAL}
+
+  db-stuff:
+    build: ./storage/db-stuff
+    restart: always
+    container_name: db-stuff
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${PORT_DB_STUFF_INTERNAL}
+    
+    volumes:
+      - ./storage/db-stuff/data:/data/db
+    ports: 
+      - ${PORT_DB_STUFF_EXTERNAL}:${PORT_DB_STUFF_INTERNAL}
+
+
+networks:
+  network:
+    driver: bridge
