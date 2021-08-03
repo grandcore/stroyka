@@ -1,0 +1,8 @@
+
+# IDE folders
+.history/
+.lh/
+.vscode/
+.idea/
+.next/
+node_modules/
