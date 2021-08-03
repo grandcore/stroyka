@@ -11,11 +11,11 @@ services:
     ports:
       - ${PORT_ROUTER_EXTERNAL}:${PORT_ROUTER_INTERNAL}
     depends_on:
-      - api-auth 
-      - web-public
+      - backend 
+      - frontend
     links:
-      - api-auth 
-      - web-public
+      - backend
+      - frontend
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:3000"]
       interval: 30s
@@ -24,49 +24,47 @@ services:
     networks:
       - network
 
-  api-auth:
-    build: ./backend/api-auth/
+  backend:
+    build: ./backend/
     container_name: api-auth
     environment: 
       - PORT=${PORT_API_AUTH_INTERNAL}
       - HOST=${HOST_GENERAL}
       - SECRET=${SECRET_AUTH_KEY}
     volumes:
-      - ./backend/api-auth/src:/home/src:rw
+      - ./backend/src:/home/src:rw
     ports:
       - ${PORT_API_AUTH_EXTERNAL}:${PORT_API_AUTH_INTERNAL}
     networks:
       - network
     depends_on: 
-      - db-auth
+      - database
 
 
-  web-public:
-    build: ./frontend/web-public/
-    container_name: web-public
+  frontend:
+    build: ./frontend/
+    container_name: frontend
     environment: 
       - PORT=${PORT_FRONT_PUBLIC_INTERNAL}
       - HOST=${HOST_GENERAL}
-    #volumes:
-    #  - ./client/web-public:/home/src/:rw
     ports:
       - ${PORT_FRONT_PUBLIC_EXTERNAL}:${PORT_FRONT_PUBLIC_INTERNAL}
     networks:
       - network
     depends_on: 
-      - api-auth 
+      - backend
 
 
-  db-auth:
-    build: ./database/db-auth
+  database:
+    build: ./database
     restart: always
-    container_name: db-auth
+    container_name: database
     environment:
       - DB_INITDB_ROOT_USERNAME=root
       - DB_INITDB_ROOT_PASSWORD=example
       - PORT=${PORT_DB_AUTH_INTERNAL}
     volumes:
-      - ./database/db-auth/data:/data/db
+      - ./database/data:/data/db
     ports: 
       - ${PORT_DB_AUTH_EXTERNAL}:${PORT_DB_AUTH_INTERNAL}
 
