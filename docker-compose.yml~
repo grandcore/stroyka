@@ -1,0 +1,44 @@
+  backend:
+    build: ./backend/
+    container_name: backend
+    environment: 
+      - PORT=${PORT_API_AUTH_INTERNAL}
+      - HOST=${HOST_GENERAL}
+      - SECRET=${SECRET_AUTH_KEY}
+    volumes:
+      - ./backend/src:/home/src:rw
+    ports:
+      - ${PORT_API_AUTH_EXTERNAL}:${PORT_API_AUTH_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - database
+
+
+  frontend:
+    build: ./frontend/
+    container_name: frontend
+    environment: 
+      - PORT=${PORT_FRONT_PUBLIC_INTERNAL}
+      - HOST=${HOST_GENERAL}
+    ports:
+      - ${PORT_FRONT_PUBLIC_EXTERNAL}:${PORT_FRONT_PUBLIC_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - backend
+
+
+  database:
+    build: ./database
+    restart: always
+    container_name: database
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${PORT_DB_AUTH_INTERNAL}
+    volumes:
+      - ./database/data:/data/db
+    ports: 
+      - ${PORT_DB_AUTH_EXTERNAL}:${PORT_DB_AUTH_INTERNAL}
+
