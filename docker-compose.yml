@@ -1,25 +1,23 @@
 version: "3.7"
 
 services:
-  router:
+  router-default:
     restart: always
-    build: ./router/
-    container_name: router
+    build: ./server/router-default/
+    container_name: router-default
     environment: 
-      - PORT=${PORT_ROUTER_INTERNAL}
-      - HOST=${HOST_GENERAL}
-    volumes:
-      - ./router/conf.d:/etc/nginx/conf.d:rw
+      - PORT=${SERVER__ROUTER_DEFAULT__PORT_INTERNAL}
+      - HOST=${GENERAL__HOST_GENERAL}
     ports:
-      - ${PORT_ROUTER_EXTERNAL}:${PORT_ROUTER_INTERNAL}
-    depends_on:
-      - backend 
-      - frontend
-    links:
-      - backend
-      - frontend
+      - ${SERVER__ROUTER_DEFAULT__PORT_EXTERNAL}:${SERVER__ROUTER_DEFAULT__PORT_INTERNAL}
+#    depends_on:
+#      - backend 
+#      - frontend
+#    links:
+#      - backend
+#      - frontend
     healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      test: ["CMD", "curl", "-f", "http://localhost:30000"]
       interval: 30s
       timeout: 10s
       retries: 5
