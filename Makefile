@@ -36,6 +36,6 @@ login:
 #	docker container exec -d frontend npm run generate
 
 db-shell:
-	docker-compose -f docker-compose.yml exec -it mongodb bash $(c)
+	docker-compose -f docker-compose.yml exec $(c)  mongo 
 
 
