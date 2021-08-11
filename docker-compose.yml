@@ -25,7 +25,7 @@ services:
       - network
 
   api-default:
-    build: ./api-default/
+    build: ./server/api-default/
     container_name: api-default
     environment: 
       - PORT=3100
@@ -37,8 +37,25 @@ services:
       - 3100:3100
     networks:
       - network
-    depends_on: 
-#      - database
+    #depends_on: 
+      #- database
+
+  db-default:
+    build: ./storage/db-default
+    user: "1000:1000"
+    restart: always
+    container_name: db-default
+    environment:
+      - DB_INITDB_ROOT_USERNAME=root
+      - DB_INITDB_ROOT_PASSWORD=example
+      - PORT=${STORAGE_DB_DEFAULT_PORT_INTERNAL}
+    
+    
+
+    volumes:
+      - ./storage/db-default/data:/data/db
+    ports: 
+      - ${STORAGE_DB_DEFAULT_PORT_EXTERNAL}:${STORAGE_DB_DEFAULT_PORT_INTERNAL}
 
 networks:
   network:
