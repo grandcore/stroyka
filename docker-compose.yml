@@ -6,10 +6,10 @@ services:
     build: ./server/router-default/
     container_name: router-default
     environment: 
-      - PORT=3000
-      - HOST=3000
+      - PORT=${SERVER__ROUTER_DEFAULT__PORT_INTERNAL}
+      - HOST=${GENERAL__HOST}
     ports:
-      - 3000:3000
+      - ${SERVER__ROUTER_DEFAULT__PORT_EXTERNAL}:${SERVER__ROUTER_DEFAULT__PORT_INTERNAL}
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:3000"]
       interval: 30s
