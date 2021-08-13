@@ -1,0 +1,12 @@
+{
+    "name": "web_public_app",
+    "version": "1.0.0",
+    "description": "smth",
+    "author": "first last <first.last@example.com>",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}

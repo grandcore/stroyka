@@ -9,7 +9,7 @@ const host = process.env.HOST;
 // the application
 const app = express();
 app.get('/', (req, res) => {
-    res.send('I\'m api-default');
+    res.send('I\'m web-admin');
 });
 
 app.listen(port, host);
