@@ -5,6 +5,7 @@ NC=\033[0m #no color
 BOLD=\033\e[1m
 DEFAULT=\033\e[0m
 GRAY=\033\e[2m
+SKY=\033\e[36m
 help:
 	@echo -e "${GREEN}Commands:${NC}"
 	@echo -e  '  ${LIGHT_GRAY}build        - Build all containers. The one container: make build ${GRAY}c=[container name]${DEFAULT}'
@@ -19,9 +20,9 @@ help:
 	@echo -e  '  restart      - Restart all containers. The one container: make restart ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  logs         - Logs from all containers. The one container: make logs ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  login        - Login in container: make login ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  ps           - Show status of containers'
-	@echo -e  '  db-shell     - Connect to db-shell: make db-shell c=[container name]'
-	@echo -e  '  db-connect   - smth'
+	@echo -e  '  ps           - Show containers status'
+	@echo -e  '  db-shell     - Connect to db-shell: make db-shell ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  db-connect   - Connect to db ${SKY}(only mongo)${DEFAULT} make db-connect ${GRAY}p=[database port]${DEFAULT}'
 	
 build:
 	
