@@ -7,20 +7,20 @@ DEFAULT=\033\e[0m
 GRAY=\033\e[2m
 help:
 	@echo -e "${GREEN}Commands:${NC}"
-	@echo -e  '  ${LIGHT_GRAY}build        - Build all containers. One container: make build ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  up           - Up all containers. One container: make up ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  ${LIGHT_GRAY}build        - Build all containers. The one container: make build ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  up           - Up all containers. The one container: make up ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  bu           - Build and Up all containers. One container: make bu ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  start        - Start all containers. One container: make start ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  pause        - Pause all containers. One container: make pause ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  unpause      - Unpause all containers. One container: make unpause ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  down         - smth'
-	@echo -e  '  destroy      - smth'
-	@echo -e  '  stop         - smth'
-	@echo -e  '  restart      - smth'
-	@echo -e  '  logs         - smth'
-	@echo -e  '  login        - smth'
-	@echo -e  '  ps           - smth'
-	@echo -e  '  db-shell     - smth'
+	@echo -e  '  start        - Start all containers. The one container: make start ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  pause        - Pause all containers. The one container: make pause ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  unpause      - Unpause all containers. The one container: make unpause ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  down         - Down all containers. The one container: make down ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  destroy      - Destroy all containers. The one container: make destroy ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  stop         - Stop all containers.The onne container: make stop ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  restart      - Restart all containers. The one container: make restart ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  logs         - Logs from all containers. The one container: make logs ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  login        - Login in container: make login ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  ps           - Show status of containers'
+	@echo -e  '  db-shell     - Connect to db-shell: make db-shell c=[container name]'
 	@echo -e  '  db-connect   - smth'
 	
 build:
