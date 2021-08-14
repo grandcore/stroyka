@@ -79,9 +79,8 @@ services:
     environment: 
       - PORT=${SERVER__API_DEFAULT__DOCS__PORT_INTERNAL}
       #- HOST=${SERVER__API_DEFAULT__HOST}
-#     
-    #volumes:
-    #  - ./server/api-default/src:/home/src:rw
+    volumes:
+      - .:/usr/src/app
     ports:
       - ${DOCS__PORT_EXTERNAL}:${DOCS__PORT_INTERNAL}
     networks:
@@ -89,6 +88,8 @@ services:
     depends_on: 
       - db-default
 
+      
+      
   db-default:
     build: ./storage/db-default
     user: "1000:1000"
