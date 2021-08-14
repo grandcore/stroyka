@@ -73,21 +73,21 @@ services:
     depends_on: 
       - db-default
 
- #docs:
- #  build: ./.docs/
- #  container_name: docs
- #  environment: 
- #    - PORT=${SERVER__API_DEFAULT__DOCS__PORT_INTERNAL}
- #    #- HOST=${SERVER__API_DEFAULT__HOST}
- #  volumes:
- #    - .:/usr/src
- #  ports:
- #    - ${DOCS__PORT_EXTERNAL}:${DOCS__PORT_INTERNAL}
- #  networks:
- #    - network
- #  depends_on: 
- #    - db-default
-#
+  docs:
+    build: ./.docs/
+    container_name: docs
+    environment: 
+      - PORT=${SERVER__API_DEFAULT__DOCS__PORT_INTERNAL}
+      #- HOST=${SERVER__API_DEFAULT__HOST}
+    volumes:
+      - ./.docs/:/usr/src/app
+    ports:
+      - ${DOCS__PORT_EXTERNAL}:${DOCS__PORT_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - db-default
+
       
       
   db-default:
