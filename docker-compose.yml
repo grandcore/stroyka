@@ -73,6 +73,22 @@ services:
     depends_on: 
       - db-default
 
+  docs:
+    build: ./.docs/
+    container_name: docs
+    environment: 
+      - PORT=${SERVER__API_DEFAULT__PORT_INTERNAL}
+      #- HOST=${SERVER__API_DEFAULT__HOST}
+#     
+    #volumes:
+    #  - ./server/api-default/src:/home/src:rw
+    ports:
+      - ${SERVER__API_DEFAULT__PORT_EXTERNAL}:${SERVER__API_DEFAULT__PORT_INTERNAL}
+    networks:
+      - network
+    depends_on: 
+      - db-default
+
   db-default:
     build: ./storage/db-default
     user: "1000:1000"

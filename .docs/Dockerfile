@@ -8,7 +8,7 @@ RUN bundle install
 FROM jekyll/jekyll
 
 VOLUME /src
-EXPOSE 4000
+EXPOSE ${PORT}
 
 WORKDIR /src
 ENTRYPOINT ["jekyll", "serve", "--livereload", "-H", "0.0.0.0"]
