@@ -77,13 +77,13 @@ services:
     build: ./.docs/
     container_name: docs
     environment: 
-      - PORT=${SERVER__API_DEFAULT__PORT_INTERNAL}
+      - PORT=${SERVER__API_DEFAULT__DOCS__PORT_INTERNAL}
       #- HOST=${SERVER__API_DEFAULT__HOST}
 #     
     #volumes:
     #  - ./server/api-default/src:/home/src:rw
     ports:
-      - ${SERVER__API_DEFAULT__PORT_EXTERNAL}:${SERVER__API_DEFAULT__PORT_INTERNAL}
+      - ${DOCS__PORT_EXTERNAL}:${DOCS__PORT_INTERNAL}
     networks:
       - network
     depends_on: 
