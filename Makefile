@@ -7,7 +7,7 @@ DEFAULT=\033\e[0m
 GRAY=\033\e[2m
 SKY=\033\e[36m
 help:
-	@echo -e "${GREEN}Commands:${NC}"
+	@echo -e "${GREEN}${BOLD}Commands:${DEFAULT}"
 	@echo -e  '  ${LIGHT_GRAY}build        - Build all containers. The one container: make build ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  up           - Up all containers. The one container: make up ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  bu           - Build and Up all containers. One container: make bu ${GRAY}c=[container name]${DEFAULT}'
