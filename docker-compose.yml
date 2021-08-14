@@ -77,7 +77,7 @@ services:
     build: ./.docs/
     container_name: docs
     environment: 
-      - PORT=${SERVER__API_DEFAULT__DOCS__PORT_INTERNAL}
+      - PORT=${DOCS__PORT_INTERNAL}
       #- HOST=${SERVER__API_DEFAULT__HOST}
     volumes:
       - ./.docs/:/usr/src/app
