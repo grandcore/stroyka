@@ -1,8 +1,30 @@
 THIS_FILE := $(lastword $(MAKEFILE_LIST))
-.PHONY: help build up start down destroy stop restart logs logs-api ps login-timescale login-api db-shell
+GREEN=\033[0;32m
+LIGHT_GRAY=\033[0;37m
+NC=\033[0m #no color
+BOLD=\033\e[1m
+DEFAULT=\033\e[0m
+GRAY=\033\e[2m
 help:
-	make -pRrq  -f $(THIS_FILE) : 2>/dev/null | awk -v RS= -F: '/^# File/,/^# Finished Make data base/ {if ($$1 !~ "^[#.]") {print $$1}}' | sort | egrep -v -e '^[^[:alnum:]]' -e '^$@$$'
+	@echo -e "${GREEN}Commands:${NC}"
+	@echo -e  '  ${LIGHT_GRAY}build        - Build all containers. One container: make build ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  up           - Up all containers. One container: make up ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  bu           - Build and Up all containers. One container: make bu ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  start        - Start all containers. One container: make start ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  pause        - Pause all containers. One container: make pause ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  unpause      - Unpause all containers. One container: make unpause ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  down         - smth'
+	@echo -e  '  destroy      - smth'
+	@echo -e  '  stop         - smth'
+	@echo -e  '  restart      - smth'
+	@echo -e  '  logs         - smth'
+	@echo -e  '  login        - smth'
+	@echo -e  '  ps           - smth'
+	@echo -e  '  db-shell     - smth'
+	@echo -e  '  db-connect   - smth'
+	
 build:
+	
 	docker-compose -f docker-compose.yml build $(c)
 up:
 	docker-compose -f docker-compose.yml up -d $(c)
@@ -36,6 +58,10 @@ login:
 #	docker container exec -d frontend npm run generate
 
 db-shell:
-	docker-compose -f docker-compose.yml exec $(c)  mongo 
+	value=$(./env)
+	echo "$value"
+	docker-compose -f docker-compose.yml exec $(c) mongo --port $${PORT}
 
+db-connect:
+	mongo --port $(p)
 
