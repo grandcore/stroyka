@@ -80,7 +80,7 @@ services:
       - PORT=${DOCS__PORT_INTERNAL}
       #- HOST=${SERVER__API_DEFAULT__HOST}
     volumes:
-      - ./.docs/:/usr/src/app
+      - ./.docs:/usr/src/app
     ports:
       - ${DOCS__PORT_EXTERNAL}:${DOCS__PORT_INTERNAL}
     networks:
