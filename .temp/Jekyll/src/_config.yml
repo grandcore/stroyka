@@ -1,12 +1,14 @@
+# Путь после URL, например, /blog/
+baseurl: ""
+# Домен
+url: "0.0.0.0"
+# Папка выхода генератора
+destination: ../dist
 
-baseurl: "" # Путь после URL, например, /blog/
-url: "0.0.0.0" # Домен
-destination: ../dist # Папка выхода генератора
-
-
-
-
-
+collections:
+  sections:
+    output: true
+    permalink: /sections/:path/
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -18,10 +20,10 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Designer, Developer, Writer, and Dad.</h1>
+    <h1>Designer, Developer, Writer, and Dad.</h1>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
@@ -34,11 +36,11 @@ theme_settings:
   github: "madebymunsters/type-theme"
   google_plus:
   instagram: "joeykirk"
-  linkedin:  # Full URL
+  linkedin: # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: # Full URL
   steam:
   tumblr:
   twitter: "joeykirk"
@@ -66,15 +68,7 @@ theme_settings:
 paginate: 5
 paginate_path: "blog/page:num"
 
-# COLLECTIONS
-collections:
-  portfolio:
-    output: true
-
 # BUILD SETTINGS
 markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: :compressed
 
 gems: [jekyll-paginate]
