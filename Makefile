@@ -1,11 +1,14 @@
 THIS_FILE := $(lastword $(MAKEFILE_LIST))
 GREEN=\033[0;32m
-LIGHT_GRAY=\033[0;37m
+LIGHT_GRAY=\033e[0;37m
+RED = \033\e[31m
+GRAY=\033\e[2m
+SKY=\033\e[36m
 NC=\033[0m #no color
 BOLD=\033\e[1m
 DEFAULT=\033\e[0m
-GRAY=\033\e[2m
-SKY=\033\e[36m
+
+
 help:
 	@echo -e "${GREEN}${BOLD}Commands:${DEFAULT}"
 	@echo -e  '  ${LIGHT_GRAY}build        - Build all containers. The one container: make build ${GRAY}c=[container name]${DEFAULT}'
@@ -14,8 +17,8 @@ help:
 	@echo -e  '  start        - Start all containers. The one container: make start ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  pause        - Pause all containers. The one container: make pause ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  unpause      - Unpause all containers. The one container: make unpause ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  down         - Down all containers. The one container: make down ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  destroy      - Destroy all containers. The one container: make destroy ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  down         - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Down all containers. The one container: make down ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  destroy      - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Destroy all containers. The one container: make destroy ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  stop         - Stop all containers.The onne container: make stop ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  restart      - Restart all containers. The one container: make restart ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  logs         - Logs from all containers. The one container: make logs ${GRAY}c=[container name]${DEFAULT}'
@@ -23,6 +26,7 @@ help:
 	@echo -e  '  ps           - Show containers status'
 	@echo -e  '  db-shell     - Connect to db-shell: make db-shell ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  db-connect   - Connect to db ${SKY}(only mongo)${DEFAULT} make db-connect ${GRAY}p=[database port]${DEFAULT}'
+	@echo -e  '  recreate     - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Delete all containers and buid, and up all containers. The one container: make recreate ${GRAY}c=[container name]${DEFAULT} '
 	
 build:
 	
@@ -65,4 +69,9 @@ db-shell:
 
 db-connect:
 	mongo --port $(p)
+
+recreate:
+	docker-compose -f docker-compose.yml down $(c)
+	docker-compose -f docker-compose.yml build $(c)
+	docker-compose -f docker-compose.yml up  -d  $(c)
 

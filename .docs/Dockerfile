@@ -1,12 +1,4 @@
-FROM ruby:2.7.4
-ENV LC_ALL C.UTF-8
-ENV LANG en_US.UTF-8
-ENV LANGUAGE en_US.UTF-8
-
-WORKDIR usr/src/app  
-
-COPY Gemfile just-the-docs.gemspec ./ 
-RUN gem install bundler && bundle install
+FROM jekyll/minimal:latest
+WORKDIR /home/src
 EXPOSE ${PORT}
-
-ENTRYPOINT ["jekyll", "serve", "--livereload", "-H", "0.0.0.0", "-P", "2000"]
+ENTRYPOINT jekyll serve --watch --force_polling --verbose -H ${HOST} -P ${PORT}

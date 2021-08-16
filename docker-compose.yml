@@ -78,9 +78,9 @@ services:
     container_name: docs
     environment: 
       - PORT=${DOCS__PORT_INTERNAL}
-      #- HOST=${SERVER__API_DEFAULT__HOST}
+      - HOST=${DOCS__HOST}
     volumes:
-      - ./.docs:/usr/src/app
+      - ./.docs:/home
     ports:
       - ${DOCS__PORT_EXTERNAL}:${DOCS__PORT_INTERNAL}
     networks:
