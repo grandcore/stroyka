@@ -12,6 +12,7 @@ DEFAULT=\033\e[0m
 define WARNING 
 @echo -e "${RED}"  
 @( read -p "WARNING: THIS COMMAND DELETE ALL DATABASE. Are you sure?! [y/N]: " sure && case "$$sure" in [yY]) true;; *) false;; esac )
+@echo -e "${DEFAULT}"
 endef
 
 
@@ -84,3 +85,6 @@ recreate:
 	docker-compose -f docker-compose.yml build $(c)
 	docker-compose -f docker-compose.yml up  -d  $(c)
 
+doc-gen:
+	docker-compose -f docker-compose.yml exec docs chmod +x /home/start.sh 
+	docker-compose -f docker-compose.yml exec docs sh /home/start.sh

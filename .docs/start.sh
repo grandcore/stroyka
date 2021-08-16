@@ -1,0 +1,1 @@
+echo "HELLO! I'm dock generator"
