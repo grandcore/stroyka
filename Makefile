@@ -34,6 +34,7 @@ help:
 	@echo -e  '  db-shell     - Connect to db-shell: make db-shell ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  db-connect   - Connect to db ${SKY}(only mongo)${DEFAULT} make db-connect ${GRAY}p=[database port]${DEFAULT}'
 	@echo -e  '  recreate     - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Delete all containers and buid, and up all containers. The one container: make recreate ${GRAY}c=[container name]${DEFAULT} '
+	@echo -e  '  doc-gen      - Generate documentation'
 	
 build:
 	
