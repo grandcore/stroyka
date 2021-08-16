@@ -24,8 +24,6 @@ help:
 	@echo -e  '  start        - Start all containers. The one container: make start ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  pause        - Pause all containers. The one container: make pause ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  unpause      - Unpause all containers. The one container: make unpause ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  down         - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Down all containers. The one container: make down ${GRAY}c=[container name]${DEFAULT}'
-	@echo -e  '  destroy      - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Destroy all containers. The one container: make destroy ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  stop         - Stop all containers.The onne container: make stop ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  restart      - Restart all containers. The one container: make restart ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  logs         - Logs from all containers. The one container: make logs ${GRAY}c=[container name]${DEFAULT}'
@@ -34,6 +32,8 @@ help:
 	@echo -e  '  db-shell     - Connect to db-shell: make db-shell ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  db-connect   - Connect to db ${SKY}(only mongo)${DEFAULT} make db-connect ${GRAY}p=[database port]${DEFAULT}'
 	@echo -e  '  recreate     - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Delete all containers and buid, and up all containers. The one container: make recreate ${GRAY}c=[container name]${DEFAULT} '
+	@echo -e  '  down         - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Down all containers. The one container: make down ${GRAY}c=[container name]${DEFAULT}'
+	@echo -e  '  destroy      - ${RED}WARNING: THIS COMMAND DELETE ALL DATABASE.${DEFAULT} Destroy all containers. The one container: make destroy ${GRAY}c=[container name]${DEFAULT}'
 	@echo -e  '  doc-gen      - Generate documentation'
 	
 build:
