@@ -8,6 +8,12 @@ NC=\033[0m #no color
 BOLD=\033\e[1m
 DEFAULT=\033\e[0m
 
+# Confirmation remove
+define WARNING 
+@echo -e "${RED}"  
+@( read -p "WARNING: THIS COMMAND DELETE ALL DATABASE. Are you sure?! [y/N]: " sure && case "$$sure" in [yY]) true;; *) false;; esac )
+endef
+
 
 help:
 	@echo -e "${GREEN}${BOLD}Commands:${DEFAULT}"
@@ -43,8 +49,10 @@ pause:
 unpause:
 	docker-compose -f docker-compose.yml unpause $(c)
 down:
+	${call WARNING}
 	docker-compose -f docker-compose.yml down $(c)
 destroy:
+	${call WARNING}
 	docker-compose -f docker-compose.yml down -v $(c)
 stop:
 	docker-compose -f docker-compose.yml stop $(c)
@@ -71,6 +79,7 @@ db-connect:
 	mongo --port $(p)
 
 recreate:
+	${call WARNING}
 	docker-compose -f docker-compose.yml down $(c)
 	docker-compose -f docker-compose.yml build $(c)
 	docker-compose -f docker-compose.yml up  -d  $(c)
