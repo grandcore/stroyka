@@ -80,7 +80,7 @@ services:
       - PORT=${DOCS__PORT_INTERNAL}
       - HOST=${DOCS__HOST}
     volumes:
-      - ./.docs:/home
+      - .:/home
     ports:
       - ${DOCS__PORT_EXTERNAL}:${DOCS__PORT_INTERNAL}
     networks:

@@ -87,5 +87,5 @@ recreate:
 	docker-compose -f docker-compose.yml up  -d  $(c)
 
 doc-gen:
-	docker-compose -f docker-compose.yml exec docs chmod +x /home/start.sh 
-	docker-compose -f docker-compose.yml exec docs sh /home/start.sh
+	docker-compose -f docker-compose.yml exec docs chmod +x /home/.docs/start.sh 
+	docker-compose -f docker-compose.yml exec docs sh /home/.docs/start.sh
