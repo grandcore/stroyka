@@ -1,12 +1,12 @@
 THIS_FILE := $(lastword $(MAKEFILE_LIST))
 GREEN=\033[0;32m
-LIGHT_GRAY=\033e[0;37m
-RED = \033\e[31m
-GRAY=\033\e[2m
-SKY=\033\e[36m
+LIGHT_GRAY=\033[0;37m
+RED = \033[31m
+GRAY=\033[2m
+SKY=\033[36m
 NC=\033[0m #no color
-BOLD=\033\e[1m
-DEFAULT=\033\e[0m
+BOLD=\033[1m
+DEFAULT=\033[0m
 
 # Confirmation remove
 define WARNING 
