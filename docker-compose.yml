@@ -65,7 +65,7 @@ services:
       - HOST=${SERVER__API_DEFAULT__HOST}
 #      - SECRET=${SECRET_AUTH_KEY}
     volumes:
-      - ./server/api-default/src:/home/src:rw
+      - ./server/api-default:/home:rw
     ports:
       - ${SERVER__API_DEFAULT__PORT_EXTERNAL}:${SERVER__API_DEFAULT__PORT_INTERNAL}
     networks:
