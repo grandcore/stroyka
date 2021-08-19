@@ -12,3 +12,12 @@ function error_exit
     exit 1
 }
 
+
+function find_files
+{
+    current_path=${pwd}
+    new_path=$1
+    cd ${new_path}
+    find . -name "$2"
+    cd ${current_path}
+}
