@@ -2,6 +2,10 @@ echo "Hello, I'm check-manifestes.sh"
 cd /home
 
 
+
+
+
+
 #if (( ${#a[@]} )); then
 #    echo not empty
 #fi

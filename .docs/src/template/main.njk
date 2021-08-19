@@ -1,3 +1,6 @@
+---
+title: My Rad Blog
+---
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,16 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link
       rel="stylesheet"
-      href="style.css"
+      href="{% if index_page !== true %}../../{% endif %}style.css"
     />
 
-    <title>DOCs</title>
+    <title>{{ title }}</title>
   </head>
   <body>
     fcg
-    <h1>DOCs</h1>
-<ul><li><a href="pages/server_0001/index.html">pages/server_0001/index.html</a></li></ul>
-</ul>
-
+    {{ content | safe }}
   </body>
 </html>
