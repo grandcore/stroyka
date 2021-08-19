@@ -1,4 +1,4 @@
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.setTemplateFormats([
     // Templates:
     "html",
@@ -11,14 +11,13 @@ module.exports = function(eleventyConfig) {
     "png",
     "svg",
     "woff",
-    "woff2"
+    "woff2",
   ]);
   eleventyConfig.addPassthroughCopy("public");
 
   eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
-  eleventyConfig.addCollection("posts", function(collection) {
-    const coll = collection
-      .getFilteredByTag("posts");
+  eleventyConfig.addCollection("posts", function (collection) {
+    const coll = collection.getFilteredByTag("posts");
     for (let i = 0; i < coll.length; i++) {
       const prevPost = coll[i - 1];
       const nextPost = coll[i + 1];
@@ -33,9 +32,8 @@ module.exports = function(eleventyConfig) {
   return {
     dir: {
       input: "src",
-      includes: "src/_includes",
-      output: "dist"
-    }
+      includes: "template",
+      output: "dist",
+    },
   };
 };
-
