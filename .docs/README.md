@@ -10,3 +10,12 @@
 
 - sort : сортировка. не зависит от типа сущности.
 - collection: имя папки группы или сервиса. для корня нужно указать root
+
+    <link
+      rel="stylesheet"
+      href="{% if index_page !== true %}../../{% endif %}assets/style__bootstrap.css"
+    />
+    <link
+      rel="stylesheet"
+      href="{% if index_page !== true %}../../{% endif %}assets/style__customs.css"
+    />

@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
     "md",
     // Static Assets:
     "css",
+    "js",
     "jpeg",
     "jpg",
     "png",
@@ -13,7 +14,6 @@ module.exports = function (eleventyConfig) {
     "woff",
     "woff2",
   ]);
-  eleventyConfig.addPassthroughCopy("public");
 
   eleventyConfig.setBrowserSyncConfig({ ghostMode: false });
   eleventyConfig.addCollection("posts", function (collection) {
@@ -28,12 +28,14 @@ module.exports = function (eleventyConfig) {
 
     return coll;
   });
-
+  eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("img");
   return {
+    passthroughFileCopy: true,
     dir: {
-      input: "src",
-      includes: "template",
-      output: "dist",
+      input: "input",
+      includes: "theme",
+      output: "output",
     },
   };
 };
