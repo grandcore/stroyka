@@ -8,3 +8,5 @@
 Вот как оно работает:
 ❯ a=$(npx jsdoc2md index.js)
 ❯ echo $a
+
+https://github.com/jsdoc2md/jsdoc-to-markdown/wiki
