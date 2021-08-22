@@ -1,3 +1,15 @@
+# Документация документации
+
+## Инструменты
+
+github.com/11ty/eleventy
+github.com/jsdoc/jsdoc
+github.com/Surnet/swagger-jsdoc
+github.com/syroegkin/swagger-markdown
+github.com/styleguidist/react-styleguidist
+
+## Переменные и теги
+
 - folder-type : тип папки (root/group/service)
 - folder-hash : хэш папки
 
@@ -11,11 +23,3 @@
 - sort : сортировка. не зависит от типа сущности.
 - collection: имя папки группы или сервиса. для корня нужно указать root
 
-    <link
-      rel="stylesheet"
-      href="{% if index_page !== true %}../../{% endif %}assets/style__bootstrap.css"
-    />
-    <link
-      rel="stylesheet"
-      href="{% if index_page !== true %}../../{% endif %}assets/style__customs.css"
-    />
