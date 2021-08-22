@@ -1,5 +1,15 @@
 {
   "name": "docs",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "jsdoc": "^3.6.7",
+    "npx": "^3.0.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-styleguidist": "^7.3.11",
+    "swagger": "^0.0.1",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-markdown": "^1.4.3"
+  }
 }
