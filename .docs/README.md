@@ -6,6 +6,7 @@ npx eleventy --serve
 ## Инструменты
 
 github.com/11ty/eleventy
+https://github.com/swagger-api/swagger-node
 github.com/jsdoc/jsdoc
 github.com/Surnet/swagger-jsdoc
 github.com/syroegkin/swagger-markdown
@@ -13,10 +14,10 @@ github.com/styleguidist/react-styleguidist
 
 ## Общие параметры
 
-- type : тип папки (index/group/service)
-- title : заголовок
-- sort : сортировка. не зависит от типа сущности.
-- tags : имя папки группы или сервиса.
+- type : тип папки или файла (index/group/service-[тип проекта]);
+- title : заголовок;
+- sort : сортировка. не зависит от типа сущности;
+- tags : коллекция в которой находится сущность.
 
 ## Доп. параметры манифеста
 
@@ -24,12 +25,7 @@ github.com/styleguidist/react-styleguidist
 
 ## Доп. параметры страницы
 
-- service-group : группа сервиса
-- service-generator : генератор документации
-
-- page-title : имя страницы
-- page-parent : сервис (или группа для редми группы) родитель
-- page-depth : глубина вложенности страницы. При генерации добавляется класс, который делает отступ слева.
+- depth : глубина вложенности страницы. При генерации добавляется класс, который делает отступ слева.
 
 # Как работает JSDoc
 
