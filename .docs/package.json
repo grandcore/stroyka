@@ -1,6 +1,10 @@
 {
   "name": "docs",
   "license": "MIT",
+  "scripts": {
+    "gen": "node scripts/gen.js",
+    "gen-force": "node scripts/gen-force.js"
+  },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
     "jsdoc": "^3.6.7",
