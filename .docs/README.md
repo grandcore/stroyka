@@ -1,5 +1,10 @@
 # Документация документации
 
+**Запуск генератора**
+npx eleventy --serve
+
+npm install npx @11ty/eleventy jsdoc swagger swagger-jsdoc swagger-markdown react-styleguidist --savedir
+
 ## Инструменты
 
 github.com/11ty/eleventy
