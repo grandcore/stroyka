@@ -37,3 +37,5 @@ github.com/styleguidist/react-styleguidist
 Вот как оно работает:
 ❯ a=$(npx jsdoc2md index.js)
 ❯ echo $a
+
+/\*class
