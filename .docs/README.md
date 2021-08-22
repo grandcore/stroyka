@@ -3,8 +3,6 @@
 **Запуск генератора**
 npx eleventy --serve
 
-npm install npx @11ty/eleventy jsdoc swagger swagger-jsdoc swagger-markdown react-styleguidist --savedir
-
 ## Инструменты
 
 github.com/11ty/eleventy
@@ -13,16 +11,18 @@ github.com/Surnet/swagger-jsdoc
 github.com/syroegkin/swagger-markdown
 github.com/styleguidist/react-styleguidist
 
-## Параметры страницы
-
-- pag
-
-## Параметры страницы
-
 ## Общие параметры
 
-- folder-type : тип папки (root/group/service)
-- folder-hash : хэш папки
+- type : тип папки (index/group/service)
+- title : заголовок
+- sort : сортировка. не зависит от типа сущности.
+- tags : имя папки группы или сервиса.
+
+## Доп. параметры манифеста
+
+- hash : хэш папки
+
+## Доп. параметры страницы
 
 - service-group : группа сервиса
 - service-generator : генератор документации
@@ -30,9 +30,6 @@ github.com/styleguidist/react-styleguidist
 - page-title : имя страницы
 - page-parent : сервис (или группа для редми группы) родитель
 - page-depth : глубина вложенности страницы. При генерации добавляется класс, который делает отступ слева.
-
-- sort : сортировка. не зависит от типа сущности.
-- collection: имя папки группы или сервиса. для корня нужно указать root
 
 # Как работает JSDoc
 
