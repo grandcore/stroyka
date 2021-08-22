@@ -1,0 +1,15 @@
+{% include "include__header.njk" %}
+<div class="row">
+  <div class="col-md-3 d-none d-lg-block">
+<ul>
+{%- for i in collections.root -%}
+  <li><a href="{{ i.fileSlug }}/index.html">{{ i.fileSlug }}/index.html</a></li>
+{%- endfor -%}
+</ul>
+  </div>
+  <div class="col-md-9">  
+    INDEX TEMPTALE!
+    {{ content | safe }}
+  </div>
+</div>
+{% include "include__footer.njk" %}
