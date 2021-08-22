@@ -1,5 +1,5 @@
 ---
-index_page: true
+type: group
 layout: template__index.njk
 title: DOCs
 ---
