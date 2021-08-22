@@ -10,7 +10,7 @@ npx eleventy --serve
 
 ## Инструменты
 
-- [](github.com/11ty/eleventy)
+- https://github.com/11ty/eleventy
 - github.com/swagger-api/swagger-node
 - github.com/jsdoc/jsdoc
 - github.com/Surnet/swagger-jsdoc
