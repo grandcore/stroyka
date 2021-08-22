@@ -11,11 +11,11 @@ npx eleventy --serve
 ## Инструменты
 
 - https://github.com/11ty/eleventy
-- github.com/swagger-api/swagger-node
-- github.com/jsdoc/jsdoc
-- github.com/Surnet/swagger-jsdoc
-- github.com/syroegkin/swagger-markdown
-- github.com/styleguidist/react-styleguidist
+- https://github.com/swagger-api/swagger-node
+- https://github.com/jsdoc/jsdoc
+- https://github.com/Surnet/swagger-jsdoc
+- https://github.com/syroegkin/swagger-markdown
+- https://github.com/styleguidist/react-styleguidist
 
 ## Параметры
 
