@@ -6,7 +6,7 @@ npx eleventy --serve
 ## Инструменты
 
 github.com/11ty/eleventy
-https://github.com/swagger-api/swagger-node
+github.com/swagger-api/swagger-node
 github.com/jsdoc/jsdoc
 github.com/Surnet/swagger-jsdoc
 github.com/syroegkin/swagger-markdown
@@ -37,5 +37,3 @@ github.com/styleguidist/react-styleguidist
 Вот как оно работает:
 ❯ a=$(npx jsdoc2md index.js)
 ❯ echo $a
-
-/\*class
