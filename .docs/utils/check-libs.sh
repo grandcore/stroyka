@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Hello, I'm check-libs.sh"
 cd utils
 source functions.sh 

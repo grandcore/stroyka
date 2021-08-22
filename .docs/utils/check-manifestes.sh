@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Hello, I'm check-manifestes.sh"
 cd /home
 
