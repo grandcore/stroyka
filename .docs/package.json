@@ -2,8 +2,7 @@
   "name": "docs",
   "license": "MIT",
   "scripts": {
-    "gen": "node scripts/gen.js",
-    "gen-force": "node scripts/gen-force.js"
+    "start": "start.js"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
@@ -15,5 +14,8 @@
     "swagger": "^0.0.1",
     "swagger-jsdoc": "^6.1.0",
     "swagger-markdown": "^1.4.3"
+  },
+  "devDependencies": {
+    "better-docs": "^2.3.2"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "name": "exemple-components2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "better-docs": "^2.3.2"
+  }
+}
